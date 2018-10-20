@@ -1,0 +1,1108 @@
+﻿Log file open, 10/20/18 14:12:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: VRMultiUserTemplate
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.299990
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.138s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6820HK CPU @ 2.70GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="mckress" -epicuserid=aede66b47dc74c7dbc239fe2c29745e4 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.20-18.12.58:344][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.20-18.12.58:344][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.20-18.12.58:363][  0]LogHAL: Display: Platform has ~ 32 GB [34312249344 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.20-18.12.58:363][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.20-18.12.58:363][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.20-18.12.58:364][  0]LogInit: Computer: DESKTOP-640KAOR
+[2018.10.20-18.12.58:364][  0]LogInit: User: mckre
+[2018.10.20-18.12.58:364][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.20-18.12.58:364][  0]LogInit: High frequency timer resolution =2.648439 MHz
+[2018.10.20-18.12.58:365][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.10.20-18.12.58:365][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.20-18.12.58:365][  0]LogMemory: Process Physical Memory: 101.13 MB used, 101.13 MB peak
+[2018.10.20-18.12.58:365][  0]LogMemory: Process Virtual Memory: 94.00 MB used, 94.00 MB peak
+[2018.10.20-18.12.58:365][  0]LogMemory: Physical Memory: 10868.69 MB used,  21854.02 MB free, 32722.71 MB total
+[2018.10.20-18.12.58:365][  0]LogMemory: Virtual Memory: 4655.01 MB used,  21854.02 MB free, 134217728.00 MB total
+[2018.10.20-18.12.58:387][  0]LogInit: Using OS detected language (en-US).
+[2018.10.20-18.12.58:387][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.20-18.12.58:388][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.20-18.12.58:841][  0]LogStreaming: Display: Took  0.455s to InitEngineTextLocalization.
+[2018.10.20-18.12.58:841][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.20-18.12.58:885][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.20-18.12.58:885][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.20-18.12.59:192][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.20-18.12.59:270][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.10.20-18.12.59:270][  0]LogD3D11RHI:       8081/0/16361 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.20-18.12.59:273][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.20-18.12.59:273][  0]LogD3D11RHI:       0/0/16361 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.20-18.12.59:273][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.20-18.12.59:279][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.20-18.12.59:279][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.20-18.12.59:280][  0]LogWindows: EnumDisplayDevices:
+[2018.10.20-18.12.59:280][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.10.20-18.12.59:280][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.10.20-18.12.59:280][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.10.20-18.12.59:280][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.10.20-18.12.59:281][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.20-18.12.59:281][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.10.20-18.12.59:281][  0]LogD3D11RHI:   Driver Version: 416.34 (internal:25.21.14.1634, unified:416.34)
+[2018.10.20-18.12.59:281][  0]LogD3D11RHI:      Driver Date: 10-10-2018
+[2018.10.20-18.12.59:281][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2018.10.20-18.12.59:331][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.20-18.12.59:353][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.20-18.12.59:396][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Intermediate/Shaders/WorkingDirectory/12440/).
+[2018.10.20-18.12.59:397][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mckre/AppData/Local/Temp/UnrealShaderWorkingDir/57F635C043B74EC45363CDA15265B45D/'.
+[2018.10.20-18.12.59:730][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.20-18.12.59:746][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.20-18.12.59:762][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.20-18.12.59:779][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.20-18.12.59:796][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.20-18.12.59:813][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.20-18.12.59:829][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.20-18.12.59:845][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.20-18.12.59:852][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.20-18.12.59:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.20-18.12.59:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.20-18.12.59:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.20-18.12.59:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.20-18.12.59:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.20-18.12.59:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.20-18.12.59:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.20-18.12.59:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.20-18.12.59:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.20-18.12.59:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.20-18.12.59:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.20-18.12.59:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.20-18.12.59:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.20-18.12.59:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.20-18.12.59:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.20-18.12.59:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.20-18.12.59:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.20-18.12.59:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.20-18.12.59:953][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.20-18.13.00:021][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.20-18.13.00:021][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.20-18.13.00:053][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.20-18.13.00:053][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.20-18.13.00:071][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.20-18.13.00:088][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.20-18.13.00:107][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.20-18.13.00:122][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.20-18.13.00:134][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.20-18.13.00:134][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.20-18.13.00:209][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.20-18.13.00:209][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.20-18.13.00:209][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.20-18.13.01:139][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.20-18.13.01:220][  0]LogDerivedDataCache: Loaded boot cache 0.08s 95MB C:/Users/mckre/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.20-18.13.01:220][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mckre/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.20-18.13.01:220][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.20-18.13.01:220][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.20-18.13.01:220][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.20-18.13.01:220][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.20-18.13.01:235][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.20-18.13.01:248][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mckre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.20-18.13.01:248][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.20-18.13.01:248][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.20-18.13.01:305][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.20-18.13.01:307][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.20-18.13.01:307][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.20-18.13.01:392][  0]LogAssetRegistry: FAssetRegistry took 0.0272 seconds to start up
+[2018.10.20-18.13.01:796][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.20-18.13.02:003][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.20-18.13.02:007][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.20-18.13.02:007][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.20-18.13.02:007][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.20-18.13.02:007][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.20-18.13.02:027][  0]LogNetVersion: VRMultiUserTemplate 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 770981243)
+[2018.10.20-18.13.02:793][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.126843 seconds
+[2018.10.20-18.13.02:803][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.20-18.13.02:803][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.20-18.13.02:803][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.20-18.13.04:103][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.20-18.13.04:136][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.20-18.13.04:313][  0]SourceControl: Source control is disabled
+[2018.10.20-18.13.04:313][  0]SourceControl: Source control is disabled
+[2018.10.20-18.13.04:315][  0]SourceControl: Source control is disabled
+[2018.10.20-18.13.04:316][  0]SourceControl: Source control is disabled
+[2018.10.20-18.13.04:494][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.20-18.13.04:635][  0]LogOcInput: OculusInput pre-init called
+[2018.10.20-18.13.04:728][  0]LogEngine: Initializing Engine...
+[2018.10.20-18.13.04:795][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-6B6F584B
+[2018.10.20-18.13.04:797][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.20-18.13.04:797][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.20-18.13.04:797][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.20-18.13.04:797][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.20-18.13.05:245][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.20-18.13.05:264][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.20-18.13.05:317][  0]LogInit: XAudio2 using 'Speakers (4- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.20-18.13.05:339][  0]LogInit: FAudioDevice initialized.
+[2018.10.20-18.13.05:340][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.20-18.13.05:433][  0]LogDerivedDataCache: Saved boot cache 0.09s 110MB C:/Users/mckre/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.20-18.13.05:464][  0]LogInit: Texture streaming: Enabled
+[2018.10.20-18.13.05:486][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.20-18.13.05:509][  0]LogInit: Transaction tracking system initialized
+[2018.10.20-18.13.05:542][  0]BlueprintLog: New page: Editor Load
+[2018.10.20-18.13.05:643][  0]LocalizationService: Localization service is disabled
+[2018.10.20-18.13.06:582][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.20-18.13.06:582][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.20-18.13.06:582][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.20-18.13.06:582][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.20-18.13.06:582][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.20-18.13.06:582][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.20-18.13.06:582][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.20-18.13.06:588][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/' took 0.01s
+[2018.10.20-18.13.06:728][  0]SourceControl: Source control is disabled
+[2018.10.20-18.13.06:728][  0]Cmd: MAP LOAD FILE="../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.20-18.13.06:728][  0]LightingResults: New page: Lighting Build
+[2018.10.20-18.13.06:732][  0]MapCheck: New page: Map Check
+[2018.10.20-18.13.06:732][  0]LightingResults: New page: Lighting Build
+[2018.10.20-18.13.06:904][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.10.20-18.13.06:914][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.20-18.13.06:940][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.20-18.13.07:026][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85.875ms to complete.
+[2018.10.20-18.13.07:026][  0]LogFileHelpers: Loading map 'StartupMap' took 0.298
+[2018.10.20-18.13.07:185][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.20-18.13.07:193][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.20-18.13.07:203][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.20-18.13.07:211][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.20-18.13.07:355][  0]LogCollectionManager: Loaded 0 collections in 0.001752 seconds
+[2018.10.20-18.13.07:403][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Collections/' took 0.01s
+[2018.10.20-18.13.07:403][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/Developers/mckre/Collections/' took 0.01s
+[2018.10.20-18.13.07:403][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/Collections/' took 0.01s
+[2018.10.20-18.13.07:403][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.20-18.13.07:416][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2573 classes and 605 folders.
+[2018.10.20-18.13.07:425][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.20-18.13.07:475][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.20-18.13.07:496][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.20-18.13.07:500][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.20-18.13.07:514][  0]LogSlate: Took 0.007322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.20-18.13.07:617][  0]LogRenderer: Reallocating scene render targets to support 832x472 Format 26 NumSamples 1 (Frame:1).
+[2018.10.20-18.13.07:812][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.20-18.13.07:812][  0]LogLoad: (Engine Initialization) Total time: 11.90 seconds
+[2018.10.20-18.13.07:812][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.20-18.13.07:832][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.20-18.13.07:859][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.10.20-18.13.07:907][  0]LogRenderer: Reallocating scene render targets to support 832x484 Format 26 NumSamples 1 (Frame:3).
+[2018.10.20-18.13.11:346][201]LogAssetRegistry: Asset discovery search completed in 9.9778 seconds
+[2018.10.20-18.13.11:348][201]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.20-18.13.11:348][201]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2018.10.20-18.13.13:162][309]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.20-18.13.22:154][840]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.20-18.13.22:161][841]LogRenderer: Reallocating scene render targets to support 832x484 Format 26 NumSamples 1 (Frame:313).
+[2018.10.20-18.13.30:204][321]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.20-18.13.42:026][ 27]LogRenderer: Reallocating scene render targets to support 832x484 Format 10 NumSamples 1 (Frame:703).
+[2018.10.20-18.13.42:095][ 30]LogContentStreaming: Texture pool size now 3000 MB
+[2018.10.20-18.13.43:635][123]LogRenderer: Reallocating scene render targets to support 832x484 Format 26 NumSamples 1 (Frame:704).
+[2018.10.20-18.13.43:728][128]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.20-18.13.44:583][179]LogEditorViewport: Clicking Background
+[2018.10.20-18.13.59:366][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.20-18.14.21:120][ 65]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.20-18.14.24:500][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.20-18.14.31:894][695]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.20-18.14.32:432][695]LogMaterial: Display: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2018.10.20-18.14.32:546][695]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.20-18.14.32:546][695]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.10.20-18.14.32:556][695]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2018.10.20-18.14.32:589][695]Cmd: MAP LOAD FILE="../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.20-18.14.32:589][695]LightingResults: New page: Lighting Build
+[2018.10.20-18.14.32:590][695]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2018.10.20-18.14.32:591][695]MapCheck: New page: Map Check
+[2018.10.20-18.14.32:591][695]LightingResults: New page: Lighting Build
+[2018.10.20-18.14.32:711][695]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.20-18.14.32:752][695]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.20-18.14.32:847][695]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 94.348ms to complete.
+[2018.10.20-18.14.32:848][695]LogFileHelpers: Loading map 'MotionControllerMap' took 0.260
+[2018.10.20-18.14.42:859][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.20-18.15.08:506][796]LogAIModule: Creating AISystem for world MultiUser_Map
+[2018.10.20-18.15.09:792][872]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MultiUser_Map.MultiUser_Map
+[2018.10.20-18.15.11:837][872]LogSlate: Window 'Save Content' being destroyed
+[2018.10.20-18.15.11:842][872]Cmd: MAP LOAD FILE="../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Maps/MultiUser_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.20-18.15.11:844][872]LightingResults: New page: Lighting Build
+[2018.10.20-18.15.11:845][872]LoadErrors: New page: Loading map: MultiUser_Map.umap
+[2018.10.20-18.15.11:846][872]MapCheck: New page: Map Check
+[2018.10.20-18.15.11:846][872]LightingResults: New page: Lighting Build
+[2018.10.20-18.15.11:960][872]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.20-18.15.12:011][872]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.20-18.15.12:100][872]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 90.082ms to complete.
+[2018.10.20-18.15.12:104][872]LogFileHelpers: Loading map 'MultiUser_Map' took 0.263
+[2018.10.20-18.15.15:605][ 81]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2018.10.20-18.15.16:957][157]Cmd: DELETE
+[2018.10.20-18.15.16:957][157]Cmd: ACTOR DELETE
+[2018.10.20-18.15.16:964][157]LogEditorActor: Deleted Actor: MotionControllerPawn_C
+[2018.10.20-18.15.17:018][157]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2018.10.20-18.15.18:244][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.20-18.15.29:819][920]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.20-18.15.31:907][ 44]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.20-18.15.37:016][348]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.20-18.15.38:319][426]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.20-18.15.42:024][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.20-18.18.11:236][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.20-18.18.22:867][466]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.10.20-18.18.24:852][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.20-18.18.48:932][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.20-18.19.01:696][292]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.20-18.19.09:276][745]LogRenderer: Reallocating scene render targets to support 832x488 Format 26 NumSamples 1 (Frame:1001).
+[2018.10.20-18.19.37:967][294]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.20-18.20.10:035][ 31]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.20-18.20.21:781][733]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/VR_GameInstace.VR_GameInstace
+[2018.10.20-18.20.22:374][733]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.10.20-18.20.23:347][733]LogSlate: Took 0.005478 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.20-18.20.25:073][835]LogSlate: Window 'VR_GameInstace*' being destroyed
+[2018.10.20-18.20.26:570][922]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/VR_GameMode.VR_GameMode
+[2018.10.20-18.20.26:877][922]LogMaterial: Display: Missing cached shader map for material GridMaterial, compiling. 
+[2018.10.20-18.20.26:942][922]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.20-18.20.26:942][922]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.20-18.20.26:942][922]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.20-18.20.26:942][922]LogMaterial: Display: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2018.10.20-18.20.26:997][922]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.20-18.20.27:149][923]LogRenderer: Reallocating scene render targets to support 908x488 Format 26 NumSamples 1 (Frame:1).
+[2018.10.20-18.20.28:164][981]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.20-18.20.30:357][110]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.20-18.20.30:658][128]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.20-18.21.11:602][244]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/VR_UserController.VR_UserController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/VR_UserController.PackageMetaData'
+[2018.10.20-18.21.11:602][244]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/VR_UserController.SKEL_VR_UserController_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/VR_UserController.PackageMetaData'
+[2018.10.20-18.21.11:602][244]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/VR_UserController.VR_UserController_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/VR_UserController.PackageMetaData'
+[2018.10.20-18.21.11:602][244]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/VR_UserController.VR_UserController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/VR_UserController.PackageMetaData'
+[2018.10.20-18.21.11:602][244]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/VR_UserController.VR_UserController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VirtualRealityBP/Blueprints/VR_UserController.PackageMetaData'
+[2018.10.20-18.21.11:654][244]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_UserController8AEFD2E145028385815D028B11360D00.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/VR_UserController.uasset'
+[2018.10.20-18.21.14:708][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:708][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn:EventGraph.K2Node_Event_126' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:708][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn:UserConstructionScript.K2Node_FunctionEntry_15' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:708][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn:GetRotationFromInput.K2Node_FunctionEntry_374' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.SKEL_MotionControllerPawn_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.SKEL_MotionControllerPawn_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.SKEL_MotionControllerPawn_C:UseControllerRollToRotate' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.SKEL_MotionControllerPawn_C:DefaultPlayerHeight' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.SKEL_MotionControllerPawn_C:LeftStickDown' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.SKEL_MotionControllerPawn_C:RightStickDown' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.SKEL_MotionControllerPawn_C:ThumbDeadzone' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.SKEL_MotionControllerPawn_C:TeleportFadeColor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.SKEL_MotionControllerPawn_C:IsTeleporting' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.SKEL_MotionControllerPawn_C:FadeInDuration' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.SKEL_MotionControllerPawn_C:FadeOutDuration' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.SKEL_MotionControllerPawn_C:RightController' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.SKEL_MotionControllerPawn_C:LeftController' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.SKEL_MotionControllerPawn_C:bShowChaperone' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.SKEL_MotionControllerPawn_C:DefaultSceneRoot' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.SKEL_MotionControllerPawn_C:VROrigin' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.SKEL_MotionControllerPawn_C:Camera' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.SKEL_MotionControllerPawn_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.SKEL_MotionControllerPawn_C:GetRotationFromInput' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.SKEL_MotionControllerPawn_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:UseControllerRollToRotate' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:DefaultPlayerHeight' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:LeftStickDown' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:RightStickDown' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:ThumbDeadzone' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:TeleportFadeColor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:IsTeleporting' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:FadeInDuration' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:FadeOutDuration' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:709][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:RightController' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:710][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:LeftController' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:710][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:bShowChaperone' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:710][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:DefaultSceneRoot' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:710][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:VROrigin' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:710][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:Camera' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:710][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:710][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:710][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:710][409]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:GetRotationFromInput' ref from Metadata '/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.PackageMetaData'
+[2018.10.20-18.21.14:857][409]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/MotionControllerPawnF955F22040F87E26756E3A8E3521ECD0.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset'
+[2018.10.20-18.21.14:883][409]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/MotionControllerPawnC710876740DDFF681299F19746C72197.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController:GetActorNearHand.K2Node_FunctionEntry_9' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController:ActivateTeleporter.K2Node_FunctionEntry_440' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController:ReleaseActor.K2Node_FunctionEntry_91' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController:GrabActor.K2Node_FunctionEntry_307' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController:GetActorNearHand.K2Node_FunctionResult_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController:TraceTeleportDestination.K2Node_FunctionEntry_558' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController:DisableTeleporter.K2Node_FunctionEntry_533' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController:TraceTeleportDestination.K2Node_FunctionResult_1' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController:UpdateArcSpline.K2Node_FunctionEntry_857' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController:ClearArc.K2Node_FunctionEntry_816' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController:UpdateArcEndpoint.K2Node_FunctionEntry_903' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController:SetupRoomScaleOutline.K2Node_FunctionEntry_122' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController:UpdateRoomScaleOutline.K2Node_FunctionEntry_163' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController:GetTeleportDestination.K2Node_FunctionResult_1' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController:GetTeleportDestination.K2Node_FunctionEntry_343' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:BndEvt__ControllerMesh_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:RumbleController' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:BndEvt__Sphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:InitialControllerRotation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:TeleportLaunchVelocity' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:TeleportRotation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:bWantsToGrip' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:GripState' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:IsValidTeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:TeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:IsRoomScale' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:bLastFrameValidDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:SplineMeshes' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:IsTeleporterActive' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:AttachedActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:Hand' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:Scene' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:MotionController' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:ArcEndPoint' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:TeleportCylinder' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:SteamVRChaperone' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:Ring' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:HandMesh' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:ArcDirection' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:ArcSpline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:GrabSphere' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:467][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:Arrow' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:RoomScaleMesh' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:GetActorNearHand.NearestOverlappingActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:GetActorNearHand.NearestOverlap' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:GetActorNearHand' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:ReleaseActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:GrabActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:ActivateTeleporter' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:DisableTeleporter' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:TraceTeleportDestination.CurrentTraceStart' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:TraceTeleportDestination.HitSurface' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:TraceTeleportDestination.NrOfSegments' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:TraceTeleportDestination.UsedTracePoints' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:TraceTeleportDestination.ProjectNavExtends' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:TraceTeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:ClearArc' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:UpdateArcSpline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:UpdateArcEndpoint' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:SetupRoomScaleOutline.ChaperoneMeshHeight' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:SetupRoomScaleOutline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:UpdateRoomScaleOutline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C:GetTeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.SKEL_BP_MotionController_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:InitialControllerRotation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:468][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:TeleportLaunchVelocity' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:TeleportRotation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:bWantsToGrip' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:GripState' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:IsValidTeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:TeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:IsRoomScale' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:bLastFrameValidDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:SplineMeshes' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:IsTeleporterActive' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:AttachedActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:Hand' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:Scene' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:MotionController' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:ArcEndPoint' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:TeleportCylinder' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:SteamVRChaperone' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:Ring' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:HandMesh' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:ArcDirection' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:ArcSpline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:GrabSphere' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:Arrow' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:RoomScaleMesh' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:GetActorNearHand' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:ReleaseActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:GrabActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:ActivateTeleporter' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:DisableTeleporter' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:TraceTeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:ClearArc' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:469][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:UpdateArcSpline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:470][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:UpdateArcEndpoint' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:470][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:SetupRoomScaleOutline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:470][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:UpdateRoomScaleOutline' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:470][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:GetTeleportDestination' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:470][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:GetActorNearHand.NearestOverlap' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:470][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:GetActorNearHand.NearestOverlappingActor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:470][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:TraceTeleportDestination.ProjectNavExtends' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:470][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:TraceTeleportDestination.UsedTracePoints' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:470][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:TraceTeleportDestination.NrOfSegments' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:470][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:TraceTeleportDestination.HitSurface' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:470][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:TraceTeleportDestination.CurrentTraceStart' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:470][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:SetupRoomScaleOutline.ChaperoneMeshHeight' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:470][977]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController_C:RumbleController' ref from Metadata '/Game/VirtualRealityBP/Blueprints/BP_MotionController.PackageMetaData'
+[2018.10.20-18.21.24:781][977]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/BP_MotionController99A317F543B5937CF7F95FB502997E22.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.20-18.21.25:108][977]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/MotionControllerPawn6B6D63854F3222B9A10249847ECFB9AB.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn:EventGraph.K2Node_Event_2' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn:GetTeleportDestination.K2Node_FunctionResult_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn:GetTeleportDestination.K2Node_FunctionEntry_1' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn:ShouldUpdateFacingDirection.K2Node_FunctionResult_1' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn:ShouldUpdateFacingDirection.K2Node_FunctionEntry_229' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn:GetThumbstickFacingDirection.K2Node_FunctionEntry_160' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn:UpdateTeleportDirection.K2Node_FunctionEntry_177' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:UseGamepad' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:RingGlowMatInst' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:DefaultPlayerHeight' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:TeleportFadeColor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:FadeInDuration' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:FadeOutDuration' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:bCurrentLocationValid' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:CurrentLookAtLocation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:RotationLengthThreshold' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:PinnedRotation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:bLocationPinned' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:bLocationFound' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:PinnedLocation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:DefaultSceneRoot' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:VROrigin' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:Camera' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:TeleportPin' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:Ring' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:Arrow' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:TraceDirection' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:377][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C:GetTeleportDestination.ProjectNavExtends' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.SKEL_HMDLocomotionPawn_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:UseGamepad' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:RingGlowMatInst' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:DefaultPlayerHeight' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:TeleportFadeColor' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:FadeInDuration' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:FadeOutDuration' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:bCurrentLocationValid' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:CurrentLookAtLocation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:RotationLengthThreshold' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:PinnedRotation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:bLocationPinned' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:bLocationFound' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:PinnedLocation' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:DefaultSceneRoot' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:VROrigin' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:Camera' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:TeleportPin' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:Ring' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:Arrow' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:TraceDirection' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:ReceiveTick' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:ReceiveBeginPlay' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:UserConstructionScript' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:378][162]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn_C:GetTeleportDestination.ProjectNavExtends' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.PackageMetaData'
+[2018.10.20-18.21.28:574][162]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/HMDLocomotionPawnE0BF54334A336F7897A5518A8668B75C.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.uasset'
+[2018.10.20-18.21.28:599][162]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/HMDLocomotionPawn4167A68A4A623D6E6920D98C926F22D3.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/HMDLocomotionPawn.uasset'
+[2018.10.20-18.21.34:415][503]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/MotionControllerHapticsD9F2FB7E4D95A3CCE123F19C67F60215.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerHaptics.uasset'
+[2018.10.20-18.21.34:920][503]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/BP_MotionControllerEB4D77A344F56B87BFF9CBA21D03440D.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.20-18.25.10:702][210]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/MultiUser_Map_Auto1A3874D19428ACDFF2DF88DA202425B54.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Maps/MultiUser_Map_Auto1.umap'
+[2018.10.20-18.25.10:711][210]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MultiUser_Map' took 0.330
+[2018.10.20-18.25.10:711][210]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.330
+[2018.10.20-18.25.10:713][210]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Maps/MultiUser_Map_BuiltData] ([1] browsable assets)...
+[2018.10.20-18.25.10:713][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Maps/MultiUser_Map_BuiltData]
+[2018.10.20-18.25.10:913][210]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/MultiUser_Map_BuiltData_Auto128C12DB34AEA09FD0A73F09EB4DAB43B.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Maps/MultiUser_Map_BuiltData_Auto1.uasset'
+[2018.10.20-18.25.10:916][210]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/VR_GameMode] ([1] browsable assets)...
+[2018.10.20-18.25.10:916][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/VR_GameMode]
+[2018.10.20-18.25.10:932][210]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_GameMode_Auto130A5A9A34FDA4F95A4DD4B855110FDF7.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/VR_GameMode_Auto1.uasset'
+[2018.10.20-18.25.10:937][210]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_MainMenu] ([1] browsable assets)...
+[2018.10.20-18.25.10:937][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_MainMenu]
+[2018.10.20-18.25.10:950][210]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_MainMenu_Auto10F2F36FC4E08FC4187B20B8649049B37.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/VR_MainMenu_Auto1.uasset'
+[2018.10.20-18.25.10:952][210]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/VR_GameInstace] ([1] browsable assets)...
+[2018.10.20-18.25.10:952][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/VR_GameInstace]
+[2018.10.20-18.25.10:963][210]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_GameInstace_Auto13818B10842B4B1DA75DBC187C0D04DF0.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/VR_GameInstace_Auto1.uasset'
+[2018.10.20-18.25.10:966][210]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_ServerList] ([1] browsable assets)...
+[2018.10.20-18.25.10:966][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_ServerList]
+[2018.10.20-18.25.10:980][210]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_ServerList_Auto1BDE8948B4BBF3AD7DF5D2EBF13D0CB84.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/VR_ServerList_Auto1.uasset'
+[2018.10.20-18.25.10:983][210]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_ServerRow] ([1] browsable assets)...
+[2018.10.20-18.25.10:983][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_ServerRow]
+[2018.10.20-18.25.10:996][210]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_ServerRow_Auto1BE88F6F145BE6064159AB1BC5434CCB6.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/VR_ServerRow_Auto1.uasset'
+[2018.10.20-18.25.10:999][210]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_LoadingScreen] ([1] browsable assets)...
+[2018.10.20-18.25.10:999][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_LoadingScreen]
+[2018.10.20-18.25.11:014][210]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_LoadingScreen_Auto1224C81B646ACEB359028E88EB62907B8.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/VR_LoadingScreen_Auto1.uasset'
+[2018.10.20-18.25.11:016][210]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_ErrorDialog] ([1] browsable assets)...
+[2018.10.20-18.25.11:016][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_ErrorDialog]
+[2018.10.20-18.25.11:030][210]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_ErrorDialog_Auto1BCE8EED54085F3DEAD0264AF9F96A48C.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/VR_ErrorDialog_Auto1.uasset'
+[2018.10.20-18.25.11:032][210]LogFileHelpers: Auto-saving content packages took 0.320
+[2018.10.20-18.25.18:060][440]LogLinker: Can't find file '/Game/Z_Folder/Blueprints/VR_GameInstance'
+[2018.10.20-18.25.18:061][440]LogLinker: Can't find file '/Game/Z_Folder/Blueprints/VR_GameInstance'
+[2018.10.20-18.25.18:067][440]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:MacroGraph: unresolved reference to 'EdGraph'"Spawn3D_Widget"',GraphBlueprint=Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=79493C714A00CB52E0FEE09053209A39)'
+[2018.10.20-18.25.18:068][440]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=79493C714A00CB52E0FEE09053209A39)'
+[2018.10.20-18.25.18:068][440]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:MacroGraph: unresolved reference to 'EdGraph'"Spawn3D_Widget"',GraphBlueprint=Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=79493C714A00CB52E0FEE09053209A39)'
+[2018.10.20-18.25.18:068][440]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=79493C714A00CB52E0FEE09053209A39)'
+[2018.10.20-18.25.18:069][440]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:MacroGraph: unresolved reference to 'EdGraph'"Spawn3D_Widget"',GraphBlueprint=Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=79493C714A00CB52E0FEE09053209A39)'
+[2018.10.20-18.25.18:069][440]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=79493C714A00CB52E0FEE09053209A39)'
+[2018.10.20-18.25.18:071][440]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:MacroGraph: unresolved reference to 'EdGraph'"IsCurrentState"',GraphBlueprint=Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=A20DD6A344DB40AFCE954B93E087E728)'
+[2018.10.20-18.25.18:071][440]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=A20DD6A344DB40AFCE954B93E087E728)'
+[2018.10.20-18.25.18:071][440]LogLinker: Can't find file '/Game/Z_Folder/Blueprints/VR_State'
+[2018.10.20-18.25.18:071][440]LogLinker: Can't find file '/Game/Z_Folder/Blueprints/VR_State'
+[2018.10.20-18.25.18:072][440]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:MacroGraph: unresolved reference to 'EdGraph'"TransitionToState"',GraphBlueprint=Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=1821A0AD480402F766CACF859CD786A6)'
+[2018.10.20-18.25.18:072][440]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=1821A0AD480402F766CACF859CD786A6)'
+[2018.10.20-18.25.18:072][440]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:MacroGraph: unresolved reference to 'EdGraph'"TransitionToState"',GraphBlueprint=Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=1821A0AD480402F766CACF859CD786A6)'
+[2018.10.20-18.25.18:072][440]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=1821A0AD480402F766CACF859CD786A6)'
+[2018.10.20-18.25.18:073][440]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:MacroGraph: unresolved reference to 'EdGraph'"TransitionToState"',GraphBlueprint=Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=1821A0AD480402F766CACF859CD786A6)'
+[2018.10.20-18.25.18:073][440]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=1821A0AD480402F766CACF859CD786A6)'
+[2018.10.20-18.25.18:167][441]LogSlate: Took 0.006323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.20-18.26.46:659][843]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:MacroGraph: unresolved reference to 'EdGraph'"IsCurrentState"',GraphBlueprint=Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=A20DD6A344DB40AFCE954B93E087E728)'
+[2018.10.20-18.26.46:659][843]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=A20DD6A344DB40AFCE954B93E087E728)'
+[2018.10.20-18.26.46:664][843]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_SwitchEnum:Enum: unresolved reference to 'UserDefinedEnum'"/Game/Z_Folder/Blueprints/VR_State.VR_State"''
+[2018.10.20-18.33.51:436][625]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/VirtualRealityBP/Blueprints/GameState.GameState
+[2018.10.20-18.35.03:504][535]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/GameStateB1441CF444691FEAA23636AA16F318DD.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/GameState.uasset'
+[2018.10.20-18.35.12:838][ 88]LogSlate: Took 0.005034 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.10.20-18.35.32:701][193]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.10.20-18.35.34:236][277]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.10.20-18.35.34:240][277]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.10.20-18.37.24:432][798]LogEditorTransaction: Undo Delete current selection
+[2018.10.20-18.37.24:631][806]LogEditorTransaction: Undo Delete current selection
+[2018.10.20-18.37.24:841][815]LogEditorTransaction: Undo Delete current selection
+[2018.10.20-18.38.18:811][615]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MultiUser_Map' took 0.042
+[2018.10.20-18.38.18:814][615]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/VR_GameInstace] ([1] browsable assets)...
+[2018.10.20-18.38.18:814][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/VR_GameInstace]
+[2018.10.20-18.38.18:887][615]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_GameInstace_Auto2E0374A2B4CBF06DC8A8424B3F1C2E47E.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/VR_GameInstace_Auto2.uasset'
+[2018.10.20-18.38.18:888][615]LogFileHelpers: Auto-saving content packages took 0.076
+[2018.10.20-18.39.27:289][523]BlueprintLog: New page: Compile VR_GameInstace
+[2018.10.20-18.39.27:325][523]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.39.27:325][523]LogBlueprint: Warning: [Compiler VR_GameInstace] Input pin  Error Message  specifying non-default value no longer exists on node  Display Error Diag . Please refresh node or reset pin to default value to remove pin.
+[2018.10.20-18.39.27:325][523]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "DisplayErrorDiag" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Display Error Diag
+[2018.10.20-18.39.27:326][523]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.39.27:326][523]LogBlueprint: Warning: [Compiler VR_GameInstace] Input pin  Error Message  specifying non-default value no longer exists on node  Display Error Diag . Please refresh node or reset pin to default value to remove pin.
+[2018.10.20-18.39.27:326][523]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "DisplayErrorDiag" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Display Error Diag
+[2018.10.20-18.39.27:326][523]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.39.27:326][523]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  Error Message  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.39.27:326][523]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "DisplayErrorDiag" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Display Error Diag
+[2018.10.20-18.39.27:326][523]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.39.27:326][523]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  Error Message  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.39.27:326][523]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "DisplayErrorDiag" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Display Error Diag
+[2018.10.20-18.39.27:327][523]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  In Error  no longer exists on node  Travel Error To String . Please refresh node or break links to remove pin.
+[2018.10.20-18.39.27:327][523]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  Out String  no longer exists on node  Travel Error To String . Please refresh node or break links to remove pin.
+[2018.10.20-18.39.27:327][523]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "Travel Error to String" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Travel Error To String
+[2018.10.20-18.39.27:327][523]LogBlueprint: Warning: [Compiler VR_GameInstace] Could not find a variable named "EnableLAN" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Get EnableLAN
+[2018.10.20-18.39.27:327][523]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  In Error  no longer exists on node  Net Error to String . Please refresh node or break links to remove pin.
+[2018.10.20-18.39.27:327][523]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  Out String  no longer exists on node  Net Error to String . Please refresh node or break links to remove pin.
+[2018.10.20-18.39.27:327][523]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "NetErrorToString" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Net Error to String
+[2018.10.20-18.39.27:327][523]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Show Loading Screen . Please refresh node or break links to remove pin.
+[2018.10.20-18.39.27:327][523]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Show Loading Screen . Please refresh node or break links to remove pin.
+[2018.10.20-18.39.27:327][523]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Show Loading Screen . Please refresh node or break links to remove pin.
+[2018.10.20-18.39.27:327][523]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Show Loading Screen . Please refresh node or break links to remove pin.
+[2018.10.20-18.39.27:377][523]LogBlueprint: Warning: [Compiler VR_GameInstace] [1591.46] Compile of VR_GameInstace failed. 20 Fatal Issue(s) 3 Warning(s) [in 88 ms] (/Game/VirtualRealityBP/Blueprints/VR_GameInstace.VR_GameInstace)
+[2018.10.20-18.40.20:527][302]BlueprintLog: New page: Compile VR_GameInstace
+[2018.10.20-18.40.20:571][302]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.20:571][302]LogBlueprint: Warning: [Compiler VR_GameInstace] Input pin  Error Message  specifying non-default value no longer exists on node  Display Error Diag . Please refresh node or reset pin to default value to remove pin.
+[2018.10.20-18.40.20:571][302]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "DisplayErrorDiag" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Display Error Diag
+[2018.10.20-18.40.20:571][302]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.20:571][302]LogBlueprint: Warning: [Compiler VR_GameInstace] Input pin  Error Message  specifying non-default value no longer exists on node  Display Error Diag . Please refresh node or reset pin to default value to remove pin.
+[2018.10.20-18.40.20:571][302]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "DisplayErrorDiag" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Display Error Diag
+[2018.10.20-18.40.20:571][302]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.20:571][302]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  Error Message  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.20:571][302]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "DisplayErrorDiag" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Display Error Diag
+[2018.10.20-18.40.20:571][302]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.20:571][302]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  Error Message  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.20:571][302]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "DisplayErrorDiag" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Display Error Diag
+[2018.10.20-18.40.20:572][302]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  In Error  no longer exists on node  Travel Error To String . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.20:572][302]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  Out String  no longer exists on node  Travel Error To String . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.20:572][302]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "Travel Error to String" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Travel Error To String
+[2018.10.20-18.40.20:572][302]LogBlueprint: Warning: [Compiler VR_GameInstace] Could not find a variable named "EnableLAN" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Get EnableLAN
+[2018.10.20-18.40.20:572][302]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  In Error  no longer exists on node  Net Error to String . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.20:572][302]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  Out String  no longer exists on node  Net Error to String . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.20:572][302]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "NetErrorToString" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Net Error to String
+[2018.10.20-18.40.20:572][302]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Show Loading Screen . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.20:572][302]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Show Loading Screen . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.20:573][302]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Show Loading Screen . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.20:573][302]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Show Loading Screen . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.20:619][302]LogBlueprint: Warning: [Compiler VR_GameInstace] [1644.70] Compile of VR_GameInstace failed. 20 Fatal Issue(s) 3 Warning(s) [in 91 ms] (/Game/VirtualRealityBP/Blueprints/VR_GameInstace.VR_GameInstace)
+[2018.10.20-18.40.37:415][296]BlueprintLog: New page: Compile VR_GameInstace
+[2018.10.20-18.40.37:458][296]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.37:458][296]LogBlueprint: Warning: [Compiler VR_GameInstace] Input pin  Error Message  specifying non-default value no longer exists on node  Display Error Diag . Please refresh node or reset pin to default value to remove pin.
+[2018.10.20-18.40.37:458][296]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "DisplayErrorDiag" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Display Error Diag
+[2018.10.20-18.40.37:458][296]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.37:458][296]LogBlueprint: Warning: [Compiler VR_GameInstace] Input pin  Error Message  specifying non-default value no longer exists on node  Display Error Diag . Please refresh node or reset pin to default value to remove pin.
+[2018.10.20-18.40.37:458][296]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "DisplayErrorDiag" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Display Error Diag
+[2018.10.20-18.40.37:458][296]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.37:458][296]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  Error Message  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.37:458][296]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "DisplayErrorDiag" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Display Error Diag
+[2018.10.20-18.40.37:458][296]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.37:458][296]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  Error Message  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.37:458][296]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "DisplayErrorDiag" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Display Error Diag
+[2018.10.20-18.40.37:458][296]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  In Error  no longer exists on node  Travel Error To String . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.37:459][296]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  Out String  no longer exists on node  Travel Error To String . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.37:459][296]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "Travel Error to String" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Travel Error To String
+[2018.10.20-18.40.37:459][296]LogBlueprint: Warning: [Compiler VR_GameInstace] Could not find a variable named "EnableLAN" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Get EnableLAN
+[2018.10.20-18.40.37:459][296]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  In Error  no longer exists on node  Net Error to String . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.37:459][296]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  Out String  no longer exists on node  Net Error to String . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.37:459][296]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "NetErrorToString" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Net Error to String
+[2018.10.20-18.40.37:459][296]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Show Loading Screen . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.37:459][296]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Show Loading Screen . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.37:459][296]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Show Loading Screen . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.37:459][296]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Show Loading Screen . Please refresh node or break links to remove pin.
+[2018.10.20-18.40.37:509][296]LogBlueprint: Warning: [Compiler VR_GameInstace] [1661.59] Compile of VR_GameInstace failed. 20 Fatal Issue(s) 3 Warning(s) [in 94 ms] (/Game/VirtualRealityBP/Blueprints/VR_GameInstace.VR_GameInstace)
+[2018.10.20-18.41.13:084][167]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:MacroGraph: unresolved reference to 'EdGraph'"Spawn3D_Widget"',GraphBlueprint=Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=79493C714A00CB52E0FEE09053209A39)'
+[2018.10.20-18.41.13:084][167]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=79493C714A00CB52E0FEE09053209A39)'
+[2018.10.20-18.41.13:084][167]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:MacroGraph: unresolved reference to 'EdGraph'"Spawn3D_Widget"',GraphBlueprint=Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=79493C714A00CB52E0FEE09053209A39)'
+[2018.10.20-18.41.13:084][167]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=79493C714A00CB52E0FEE09053209A39)'
+[2018.10.20-18.41.13:085][167]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:MacroGraph: unresolved reference to 'EdGraph'"Spawn3D_Widget"',GraphBlueprint=Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=79493C714A00CB52E0FEE09053209A39)'
+[2018.10.20-18.41.13:085][167]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=79493C714A00CB52E0FEE09053209A39)'
+[2018.10.20-18.41.13:088][167]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=A20DD6A344DB40AFCE954B93E087E728)'
+[2018.10.20-18.41.13:088][167]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=1821A0AD480402F766CACF859CD786A6)'
+[2018.10.20-18.41.13:089][167]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=1821A0AD480402F766CACF859CD786A6)'
+[2018.10.20-18.41.13:090][167]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=1821A0AD480402F766CACF859CD786A6)'
+[2018.10.20-18.43.46:283][840]BlueprintLog: New page: Compile VR_GameInstace
+[2018.10.20-18.43.46:325][840]LogBlueprint: Error: [Compiler VR_GameInstace] Spawn node  SpawnActor  must have a  Class  specified.
+[2018.10.20-18.43.46:375][840]LogBlueprint: Warning: [Compiler VR_GameInstace] [1850.46] Compile of VR_GameInstace failed. 1 Fatal Issue(s) 0 Warning(s) [in 91 ms] (/Game/VirtualRealityBP/Blueprints/VR_GameInstace.VR_GameInstace)
+[2018.10.20-18.45.48:876][169]BlueprintLog: New page: Compile VR_GameInstace
+[2018.10.20-18.45.48:923][169]LogBlueprint: Error: [Compiler VR_GameInstace] Spawn node  SpawnActor  must have a  Class  specified.
+[2018.10.20-18.45.48:925][169]LogBlueprint: Error: [Compiler VR_GameInstace] Spawn node  SpawnActor  must have a  Class  specified.
+[2018.10.20-18.45.48:926][169]LogBlueprint: Error: [Compiler VR_GameInstace] Spawn node  SpawnActor  must have a  Class  specified.
+[2018.10.20-18.45.48:977][169]LogBlueprint: Warning: [Compiler VR_GameInstace] [1973.06] Compile of VR_GameInstace failed. 3 Fatal Issue(s) 0 Warning(s) [in 100 ms] (/Game/VirtualRealityBP/Blueprints/VR_GameInstace.VR_GameInstace)
+[2018.10.20-18.46.01:032][802]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.20-18.46.03:720][960]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Widgets/NewBlueprint.NewBlueprint
+[2018.10.20-18.46.13:214][500]BlueprintLog: New page: Compile NewBlueprint
+[2018.10.20-18.46.39:325][ 43]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/3DWidgetBase_BP.3DWidgetBase_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/NewBlueprint.PackageMetaData'
+[2018.10.20-18.46.39:325][ 43]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/3DWidgetBase_BP.SKEL_3DWidgetBase_BP_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/NewBlueprint.PackageMetaData'
+[2018.10.20-18.46.39:326][ 43]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/3DWidgetBase_BP.3DWidgetBase_BP_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/NewBlueprint.PackageMetaData'
+[2018.10.20-18.46.39:326][ 43]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/3DWidgetBase_BP.3DWidgetBase_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/NewBlueprint.PackageMetaData'
+[2018.10.20-18.46.39:326][ 43]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/3DWidgetBase_BP.3DWidgetBase_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/NewBlueprint.PackageMetaData'
+[2018.10.20-18.46.39:326][ 43]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/Widgets/3DWidgetBase_BP.3DWidgetBase_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/VirtualRealityBP/Blueprints/Widgets/NewBlueprint.PackageMetaData'
+[2018.10.20-18.46.39:372][ 43]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/3DWidgetBase_BP6F4F1EF74D5F102C8504E4A2B5C48CBB.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/Widgets/3DWidgetBase_BP.uasset'
+[2018.10.20-18.47.52:263][295]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.20-18.48.10:311][948]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.20-18.48.35:046][414]BlueprintLog: New page: Compile VR_GameInstace
+[2018.10.20-18.49.58:077][ 22]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/MultiUser_Map_Auto3F1AC578146069BDD3B445DAF7DDE52BA.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Maps/MultiUser_Map_Auto3.umap'
+[2018.10.20-18.49.58:083][ 22]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MultiUser_Map' took 0.321
+[2018.10.20-18.49.58:083][ 22]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.321
+[2018.10.20-18.49.58:085][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/VR_GameMode] ([1] browsable assets)...
+[2018.10.20-18.49.58:085][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/VR_GameMode]
+[2018.10.20-18.49.58:100][ 22]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_GameMode_Auto32B51BAC14C2525C1D4081E8C0258BFBC.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/VR_GameMode_Auto3.uasset'
+[2018.10.20-18.49.58:103][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_MainMenu] ([1] browsable assets)...
+[2018.10.20-18.49.58:103][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_MainMenu]
+[2018.10.20-18.49.58:116][ 22]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_MainMenu_Auto31E6922A8453983F30314D3AE82CC0D25.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/VR_MainMenu_Auto3.uasset'
+[2018.10.20-18.49.58:118][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/VR_GameInstace] ([1] browsable assets)...
+[2018.10.20-18.49.58:118][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/VR_GameInstace]
+[2018.10.20-18.49.58:203][ 22]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_GameInstace_Auto38AC6184B432559BE7B5A5ABF981107CA.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/VR_GameInstace_Auto3.uasset'
+[2018.10.20-18.49.58:205][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_ServerList] ([1] browsable assets)...
+[2018.10.20-18.49.58:205][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_ServerList]
+[2018.10.20-18.49.58:218][ 22]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_ServerList_Auto353CAABB84FEC48C13495C2878A2CF82C.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/VR_ServerList_Auto3.uasset'
+[2018.10.20-18.49.58:220][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_ServerRow] ([1] browsable assets)...
+[2018.10.20-18.49.58:220][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_ServerRow]
+[2018.10.20-18.49.58:233][ 22]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_ServerRow_Auto359C190C9458D71393396FF83DCD9D343.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/VR_ServerRow_Auto3.uasset'
+[2018.10.20-18.49.58:235][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_LoadingScreen] ([1] browsable assets)...
+[2018.10.20-18.49.58:235][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_LoadingScreen]
+[2018.10.20-18.49.58:249][ 22]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_LoadingScreen_Auto3C33E88FE4C8F2CDA361D518BC4E71B42.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/VR_LoadingScreen_Auto3.uasset'
+[2018.10.20-18.49.58:250][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_ErrorDialog] ([1] browsable assets)...
+[2018.10.20-18.49.58:250][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_ErrorDialog]
+[2018.10.20-18.49.58:263][ 22]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_ErrorDialog_Auto337EB51254D69C5F3CBCBBFA6F77A3A31.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/VR_ErrorDialog_Auto3.uasset'
+[2018.10.20-18.49.58:265][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/ErrorDialog_BP] ([1] browsable assets)...
+[2018.10.20-18.49.58:265][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/ErrorDialog_BP]
+[2018.10.20-18.49.58:282][ 22]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/ErrorDialog_BP_Auto3D298A0574D7F9924315C88BC113BE106.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/ErrorDialog_BP_Auto3.uasset'
+[2018.10.20-18.49.58:286][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/LoadingScreen_BP] ([1] browsable assets)...
+[2018.10.20-18.49.58:286][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/LoadingScreen_BP]
+[2018.10.20-18.49.58:306][ 22]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/LoadingScreen_BP_Auto3B8869E864E0C5C08B3D3B5842DACB23F.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/LoadingScreen_BP_Auto3.uasset'
+[2018.10.20-18.49.58:308][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu_BP] ([1] browsable assets)...
+[2018.10.20-18.49.58:308][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu_BP]
+[2018.10.20-18.49.58:325][ 22]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/MainMenu_BP_Auto3EFF5937A46D8FCE16EF68DB2705A15C6.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu_BP_Auto3.uasset'
+[2018.10.20-18.49.58:327][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/ServerList_BP] ([1] browsable assets)...
+[2018.10.20-18.49.58:327][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/ServerList_BP]
+[2018.10.20-18.49.58:346][ 22]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/ServerList_BP_Auto3C1E1B279417C60AAE5E9B3804C3FF399.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/ServerList_BP_Auto3.uasset'
+[2018.10.20-18.49.58:347][ 22]LogFileHelpers: Auto-saving content packages took 0.262
+[2018.10.20-18.50.10:053][722]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=1821A0AD480402F766CACF859CD786A6)'
+[2018.10.20-18.50.10:055][722]LogLinker: Can't find file '/Game/Z_Folder/Blueprints/Widgets/VR_ErrorDialog'
+[2018.10.20-18.50.10:055][722]LogLinker: Can't find file '/Game/Z_Folder/Blueprints/Widgets/VR_ErrorDialog'
+[2018.10.20-18.50.10:055][722]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'WidgetBlueprintGeneratedClass'"/Game/Z_Folder/Blueprints/Widgets/VR_ErrorDialog.VR_ErrorDialog_C"',MemberName="SetMessage",MemberGuid=CBCF0A984ED433DD7AF73C9D450CB9F5)'
+[2018.10.20-18.50.10:057][722]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'WidgetBlueprintGeneratedClass'"/Game/Z_Folder/Blueprints/Widgets/VR_ErrorDialog.VR_ErrorDialog_C"''
+[2018.10.20-18.50.10:058][722]LogLinker: Can't find file '/Game/Z_Folder/Blueprints/Widgets/3D_ErrorDialog'
+[2018.10.20-18.50.10:058][722]LogLinker: Can't find file '/Game/Z_Folder/Blueprints/Widgets/3D_ErrorDialog'
+[2018.10.20-18.50.10:058][722]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Z_Folder/Blueprints/Widgets/3D_ErrorDialog.3D_ErrorDialog_C"',MemberName="Widget_ErrorDialog")'
+[2018.10.20-18.50.10:059][722]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/Z_Folder/Blueprints/Widgets/3D_ErrorDialog.3D_ErrorDialog_C"''
+[2018.10.20-18.50.10:059][722]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:MacroGraph: unresolved reference to 'EdGraph'"Spawn3D_Widget"',GraphBlueprint=Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=79493C714A00CB52E0FEE09053209A39)'
+[2018.10.20-18.50.10:060][722]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance"',GraphGuid=79493C714A00CB52E0FEE09053209A39)'
+[2018.10.20-18.52.27:861][386]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.20-18.53.28:519][208]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.10.20-18.54.37:421][911]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Widgets/ErrorDialog_BP.ErrorDialog_BP
+[2018.10.20-18.56.36:834][126]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.10.20-18.57.01:937][589]BlueprintLog: New page: Compile VR_GameInstace
+[2018.10.20-18.57.02:015][589]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.57.02:015][589]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  Error Message  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.57.02:015][589]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "DisplayErrorDiag" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Display Error Diag
+[2018.10.20-18.57.02:015][589]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.57.02:015][589]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  Error Message  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.57.02:015][589]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "DisplayErrorDiag" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Display Error Diag
+[2018.10.20-18.57.02:015][589]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  In Error  no longer exists on node  Travel Error To String . Please refresh node or break links to remove pin.
+[2018.10.20-18.57.02:015][589]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  Out String  no longer exists on node  Travel Error To String . Please refresh node or break links to remove pin.
+[2018.10.20-18.57.02:015][589]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "Travel Error to String" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Travel Error To String
+[2018.10.20-18.57.02:015][589]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  In Error  no longer exists on node  Net Error to String . Please refresh node or break links to remove pin.
+[2018.10.20-18.57.02:016][589]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  Out String  no longer exists on node  Net Error to String . Please refresh node or break links to remove pin.
+[2018.10.20-18.57.02:016][589]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "NetErrorToString" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Net Error to String
+[2018.10.20-18.57.02:016][589]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.57.02:016][589]LogBlueprint: Warning: [Compiler VR_GameInstace] Input pin  Error Message  specifying non-default value no longer exists on node  Display Error Diag . Please refresh node or reset pin to default value to remove pin.
+[2018.10.20-18.57.02:016][589]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "DisplayErrorDiag" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Display Error Diag
+[2018.10.20-18.57.02:016][589]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.57.02:016][589]LogBlueprint: Warning: [Compiler VR_GameInstace] Input pin  Error Message  specifying non-default value no longer exists on node  Display Error Diag . Please refresh node or reset pin to default value to remove pin.
+[2018.10.20-18.57.02:016][589]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "DisplayErrorDiag" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Display Error Diag
+[2018.10.20-18.57.02:016][589]LogBlueprint: Warning: [Compiler VR_GameInstace] Could not find a variable named "EnableLAN" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Get EnableLAN
+[2018.10.20-18.57.02:030][589]LogBlueprint: Error: [Compiler VR_GameInstace] The property associated with  Enable LAN  could not be found in '/Game/VirtualRealityBP/Blueprints/VR_GameInstace.VR_GameInstace_C'
+[2018.10.20-18.57.02:089][589]LogBlueprint: Warning: [Compiler VR_GameInstace] [2646.17] Compile of VR_GameInstace failed. 17 Fatal Issue(s) 3 Warning(s) [in 151 ms] (/Game/VirtualRealityBP/Blueprints/VR_GameInstace.VR_GameInstace)
+[2018.10.20-18.58.49:803][ 61]BlueprintLog: New page: Compile VR_GameInstace
+[2018.10.20-18.58.49:872][ 61]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.58.49:872][ 61]LogBlueprint: Warning: [Compiler VR_GameInstace] Input pin  Error Message  specifying non-default value no longer exists on node  Display Error Diag . Please refresh node or reset pin to default value to remove pin.
+[2018.10.20-18.58.49:873][ 61]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "DisplayErrorDiag" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Display Error Diag
+[2018.10.20-18.58.49:873][ 61]LogBlueprint: Error: [Compiler VR_GameInstace] In use pin  <Unnamed>  no longer exists on node  Display Error Diag . Please refresh node or break links to remove pin.
+[2018.10.20-18.58.49:873][ 61]LogBlueprint: Warning: [Compiler VR_GameInstace] Input pin  Error Message  specifying non-default value no longer exists on node  Display Error Diag . Please refresh node or reset pin to default value to remove pin.
+[2018.10.20-18.58.49:873][ 61]LogBlueprint: Error: [Compiler VR_GameInstace] Could not find a function named "DisplayErrorDiag" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Display Error Diag
+[2018.10.20-18.58.49:873][ 61]LogBlueprint: Warning: [Compiler VR_GameInstace] Could not find a variable named "EnableLAN" in 'VR_GameInstace_C'.
+Make sure 'VR_GameInstace_C' has been compiled for  Get EnableLAN
+[2018.10.20-18.58.49:886][ 61]LogBlueprint: Error: [Compiler VR_GameInstace] The property associated with  Enable LAN  could not be found in '/Game/VirtualRealityBP/Blueprints/VR_GameInstace.VR_GameInstace_C'
+[2018.10.20-18.58.49:936][ 61]LogBlueprint: Warning: [Compiler VR_GameInstace] [2754.02] Compile of VR_GameInstace failed. 5 Fatal Issue(s) 3 Warning(s) [in 133 ms] (/Game/VirtualRealityBP/Blueprints/VR_GameInstace.VR_GameInstace)
+[2018.10.20-18.59.55:390][934]BlueprintLog: New page: Compile VR_GameInstace
+[2018.10.20-19.00.11:604][355]BlueprintLog: New page: Compile VR_GameInstace
+[2018.10.20-19.00.42:748][819]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MultiUser_Map' took 0.039
+[2018.10.20-19.00.42:752][819]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/VR_GameInstace] ([1] browsable assets)...
+[2018.10.20-19.00.42:752][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/VR_GameInstace]
+[2018.10.20-19.00.42:866][819]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_GameInstace_Auto45261F0C2436C73CCCA8EB288E7C52060.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/VR_GameInstace_Auto4.uasset'
+[2018.10.20-19.00.42:868][819]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/ErrorDialog_BP] ([1] browsable assets)...
+[2018.10.20-19.00.42:868][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/ErrorDialog_BP]
+[2018.10.20-19.00.42:891][819]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/ErrorDialog_BP_Auto4D938167240866927047525BEF08C01B1.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/ErrorDialog_BP_Auto4.uasset'
+[2018.10.20-19.00.42:894][819]LogFileHelpers: Auto-saving content packages took 0.143
+[2018.10.20-19.01.12:229][262]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.20-19.01.17:008][542]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Widgets/ErrorDialog_BP.ErrorDialog_BP
+[2018.10.20-19.01.17:291][542]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.10.20-19.01.19:120][649]LogSlate: Window 'CompilerResults' being destroyed
+[2018.10.20-19.01.19:126][649]LogSlate: Window 'CompilerResults' being destroyed
+[2018.10.20-19.01.20:095][703]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Widgets/ErrorDialog_BP.ErrorDialog_BP
+[2018.10.20-19.01.23:935][908]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.20-19.01.27:755][135]BlueprintLog: New page: Compile ErrorDialog_BP
+[2018.10.20-19.01.29:722][235]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Widgets/LoadingScreen_BP.LoadingScreen_BP
+[2018.10.20-19.01.32:312][363]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.20-19.01.44:659][ 81]BlueprintLog: New page: Compile LoadingScreen_BP
+[2018.10.20-19.01.46:558][179]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Widgets/MainMenu_BP.MainMenu_BP
+[2018.10.20-19.01.49:556][330]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.20-19.01.53:180][545]BlueprintLog: New page: Compile MainMenu_BP
+[2018.10.20-19.01.55:055][641]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Widgets/ServerList_BP.ServerList_BP
+[2018.10.20-19.01.59:225][862]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.20-19.02.05:694][247]BlueprintLog: New page: Compile ServerList_BP
+[2018.10.20-19.02.12:342][623]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.20-19.02.12:422][623]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.20-19.02.12:495][623]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.20-19.02.12:570][623]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.20-19.02.13:594][676]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/VirtualRealityBP/Blueprints/Widgets/VR_ErrorDialog.VR_ErrorDialog
+[2018.10.20-19.03.11:611][720]LogSlate: Took 0.022502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.10.20-19.04.33:951][683]LogSlate: Window 'VR_ErrorDialog*' being destroyed
+[2018.10.20-19.05.16:629][920]BlueprintLog: New page: Compile VR_ErrorDialog
+[2018.10.20-19.05.21:034][168]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/VR_GameInstace.VR_GameInstace
+[2018.10.20-19.05.52:423][947]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.10.20-19.06.14:279][181]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.10.20-19.06.36:022][465]BlueprintLog: New page: Compile VR_GameInstace
+[2018.10.20-19.07.43:660][866]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.20-19.07.50:785][288]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.20-19.07.59:863][825]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.20-19.08.15:440][753]BlueprintLog: New page: Compile VR_ErrorDialog
+[2018.10.20-19.08.30:909][661]BlueprintLog: New page: Compile VR_ErrorDialog
+[2018.10.20-19.08.42:744][351]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Widgets/ErrorDialog_BP.ErrorDialog_BP
+[2018.10.20-19.08.47:565][615]BlueprintLog: New page: Compile ErrorDialog_BP
+[2018.10.20-19.08.53:090][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.20-19.09.04:413][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.20-19.09.04:498][610]LogRenderer: Reallocating scene render targets to support 2268x1216 Format 26 NumSamples 1 (Frame:849).
+[2018.10.20-19.09.12:189][ 68]BlueprintLog: New page: Compile VR_ErrorDialog
+[2018.10.20-19.09.27:536][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.20-19.09.39:199][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.20-19.09.39:249][663]BlueprintLog: New page: Compile ErrorDialog_BP
+[2018.10.20-19.09.43:632][910]LogClass: Warning: In asset 'None', there is an enum property of type 'EWidgetTimingPolicy' with an invalid value of ''
+[2018.10.20-19.09.57:355][720]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Widgets/ErrorDialog_BP.ErrorDialog_BP
+[2018.10.20-19.10.00:746][900]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/VirtualRealityBP/Blueprints/Widgets/VR_ErrorDialog.VR_ErrorDialog
+[2018.10.20-19.10.34:649][ 38]LogLinker: Can't find file '/Game/Blueprints/MyGameInstance'
+[2018.10.20-19.10.34:649][ 38]LogLinker: Can't find file '/Game/Blueprints/MyGameInstance'
+[2018.10.20-19.10.34:649][ 38]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/MyGameInstance.MyGameInstance_C"''
+[2018.10.20-19.10.34:649][ 38]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/MyGameInstance.MyGameInstance_C"',MemberName="ShowMainMenuEvent",MemberGuid=2F6F3264402AD67F29DD0EB5252C26A9)'
+[2018.10.20-19.10.57:009][232]BlueprintLog: New page: Compile VR_ErrorDialog
+[2018.10.20-19.11.03:901][615]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/VirtualRealityBP/Blueprints/Widgets/VR_LoadingScreen.VR_LoadingScreen
+[2018.10.20-19.12.19:997][754]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.20-19.12.26:486][ 89]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.20-19.12.36:528][631]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.20-19.14.17:751][977]BlueprintLog: New page: Compile VR_LoadingScreen
+[2018.10.20-19.14.19:432][ 56]LogSlate: Window 'VR_LoadingScreen*' being destroyed
+[2018.10.20-19.14.44:142][651]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/VirtualRealityBP/Blueprints/Widgets/VR_MainMenu.VR_MainMenu
+[2018.10.20-19.15.11:618][965]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MultiUser_Map' took 0.035
+[2018.10.20-19.15.11:620][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/VR_GameInstace] ([1] browsable assets)...
+[2018.10.20-19.15.11:620][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/VR_GameInstace]
+[2018.10.20-19.15.11:724][965]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_GameInstace_Auto543351C474835380C70951EBBD51BD63D.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/VR_GameInstace_Auto5.uasset'
+[2018.10.20-19.15.11:726][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_LoadingScreen] ([1] browsable assets)...
+[2018.10.20-19.15.11:726][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_LoadingScreen]
+[2018.10.20-19.15.11:744][965]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_LoadingScreen_Auto587C0289648CA6CE4C4F3FD8F12AA59AF.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/VR_LoadingScreen_Auto5.uasset'
+[2018.10.20-19.15.11:747][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_ErrorDialog] ([1] browsable assets)...
+[2018.10.20-19.15.11:747][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_ErrorDialog]
+[2018.10.20-19.15.11:775][965]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_ErrorDialog_Auto5CF993F1A4122B8294682CE95D08A60FD.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/VR_ErrorDialog_Auto5.uasset'
+[2018.10.20-19.15.11:777][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/ErrorDialog_BP] ([1] browsable assets)...
+[2018.10.20-19.15.11:777][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/ErrorDialog_BP]
+[2018.10.20-19.15.11:794][965]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/ErrorDialog_BP_Auto5AEEA77BF4F68A334B5E91C88FC689984.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/ErrorDialog_BP_Auto5.uasset'
+[2018.10.20-19.15.11:796][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/LoadingScreen_BP] ([1] browsable assets)...
+[2018.10.20-19.15.11:796][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/LoadingScreen_BP]
+[2018.10.20-19.15.11:816][965]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/LoadingScreen_BP_Auto5589EC20B4A640249EDF1D0BAA589DCCD.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/LoadingScreen_BP_Auto5.uasset'
+[2018.10.20-19.15.11:818][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu_BP] ([1] browsable assets)...
+[2018.10.20-19.15.11:820][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu_BP]
+[2018.10.20-19.15.11:842][965]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/MainMenu_BP_Auto5633C11D844E5FF0C4E9A6BB319E1F716.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/MainMenu_BP_Auto5.uasset'
+[2018.10.20-19.15.11:844][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/ServerList_BP] ([1] browsable assets)...
+[2018.10.20-19.15.11:844][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/ServerList_BP]
+[2018.10.20-19.15.11:862][965]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/ServerList_BP_Auto5F685BF064078AE122D12B9A77C7210D5.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/ServerList_BP_Auto5.uasset'
+[2018.10.20-19.15.11:864][965]LogFileHelpers: Auto-saving content packages took 0.245
+[2018.10.20-19.21.42:432][523]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.20-19.22.00:588][446]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.20-19.22.11:307][986]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.20-19.22.19:065][381]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.20-19.22.35:324][205]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.20-19.22.41:850][555]BlueprintLog: New page: Compile VR_MainMenu
+[2018.10.20-19.23.41:200][977]BlueprintLog: New page: Compile VR_MainMenu
+[2018.10.20-19.24.07:592][410]LogLinker: Can't find file '/Game/Z_Folder/Blueprints/Widgets/VR_MainMenu'
+[2018.10.20-19.24.07:593][410]LogLinker: Can't find file '/Game/Z_Folder/Blueprints/Widgets/VR_MainMenu'
+[2018.10.20-19.24.07:597][410]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance_C"''
+[2018.10.20-19.24.07:597][410]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance_C"',MemberName="HostGameEvent",MemberGuid=A1C8F1B74B76CEAC6BCFD79312372BD3)'
+[2018.10.20-19.24.07:598][410]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance_C"''
+[2018.10.20-19.24.07:599][410]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance_C"',MemberName="ShowServerListEvent",MemberGuid=EB15368243EA2FAAFB0AFF9B276AFAFA)'
+[2018.10.20-19.24.07:599][410]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance_C"''
+[2018.10.20-19.24.07:600][410]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance_C"',MemberName="EnableLAN",MemberGuid=0146973747569B83C62C5794CB55ED94)'
+[2018.10.20-19.24.07:600][410]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Z_Folder/Blueprints/VR_GameInstance.VR_GameInstance_C"',MemberName="EnableLAN",MemberGuid=0146973747569B83C62C5794CB55ED94)'
+[2018.10.20-19.27.56:363][858]BlueprintLog: New page: Compile VR_MainMenu
+[2018.10.20-19.31.22:211][782]BlueprintLog: New page: Compile VR_MainMenu
+[2018.10.20-19.31.33:227][423]LogSlate: Window 'VR_MainMenu*' being destroyed
+[2018.10.20-19.31.56:244][822]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/VirtualRealityBP/Blueprints/Widgets/VR_MainMenu.VR_MainMenu
+[2018.10.20-19.32.00:781][ 50]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MultiUser_Map' took 0.031
+[2018.10.20-19.32.00:783][ 50]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_MainMenu] ([1] browsable assets)...
+[2018.10.20-19.32.00:783][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_MainMenu]
+[2018.10.20-19.32.00:837][ 50]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_MainMenu_Auto634C4CBEA4634B0F1CA1FA48F4C8F6313.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/VR_MainMenu_Auto6.uasset'
+[2018.10.20-19.32.00:838][ 50]LogFileHelpers: Auto-saving content packages took 0.056
+[2018.10.20-19.32.03:164][185]BlueprintLog: New page: Compile VR_MainMenu
+[2018.10.20-19.32.03:434][185]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_MainMenuF886AD904ABC94BBA65CFD92BF616B9C.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/Widgets/VR_MainMenu.uasset'
+[2018.10.20-19.32.05:406][299]LogSlate: Window 'VR_MainMenu' being destroyed
+[2018.10.20-19.32.10:813][416]LogSlate: Window 'Save Content' being destroyed
+[2018.10.20-19.32.10:952][416]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_GameInstaceA3A39D6F433F374052ED178F10E6C920.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/VR_GameInstace.uasset'
+[2018.10.20-19.32.10:981][416]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_GameMode1A8E77B7443A7F67BE6C26A843CD13F8.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/VR_GameMode.uasset'
+[2018.10.20-19.32.11:013][416]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/ErrorDialog_BPE1B0F15C42E18DE846F522A4EEC16FC6.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/Widgets/ErrorDialog_BP.uasset'
+[2018.10.20-19.32.11:048][416]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/LoadingScreen_BPE6AC69C94126DD09D3582AAC6A25A41B.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/Widgets/LoadingScreen_BP.uasset'
+[2018.10.20-19.32.11:081][416]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/MainMenu_BP447A5B7E463A4C8B9FB582977B06798F.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/Widgets/MainMenu_BP.uasset'
+[2018.10.20-19.32.11:116][416]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/ServerList_BPF0B961DC44E5DA41BF75048BCE2D9A69.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/Widgets/ServerList_BP.uasset'
+[2018.10.20-19.32.11:157][416]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_ErrorDialogE655A69D4A4FD056A1B7F8B144770240.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/Widgets/VR_ErrorDialog.uasset'
+[2018.10.20-19.32.11:187][416]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_LoadingScreen6102781246AE8ABC0636B68F93836EC9.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/Widgets/VR_LoadingScreen.uasset'
+[2018.10.20-19.32.11:213][416]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_ServerListD7AD42D3458FB9573CE07E9E1BC9ED29.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/Widgets/VR_ServerList.uasset'
+[2018.10.20-19.32.11:240][416]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/VR_ServerRow3E34F7ED4820986FACFC9BA1D0F4283A.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/Widgets/VR_ServerRow.uasset'
+[2018.10.20-19.32.11:684][416]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/MultiUser_Map2DE51C3B4F388AB14DEA2B91E75DFBF0.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Maps/MultiUser_Map.umap'
+[2018.10.20-19.32.11:720][416]LogFileHelpers: Saving map 'MultiUser_Map' took 0.467
+[2018.10.20-19.32.11:914][416]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Saved/MultiUser_Map_BuiltData05F5CCE34C0935F9EA5723A890E3802C.tmp' to '../../../../../../Users/mckre/Documents/Unreal Projects/VRMultiUserTemplate/Content/VirtualRealityBP/Maps/MultiUser_Map_BuiltData.uasset'
+[2018.10.20-19.32.41:481][187]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/VirtualRealityBP/Blueprints/Widgets/VR_ServerRow.VR_ServerRow
+[2018.10.20-19.33.11:617][487]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Widgets/ServerList_BP.ServerList_BP
+[2018.10.20-19.33.15:023][665]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Widgets/ServerList_BP.ServerList_BP
+[2018.10.20-19.33.42:500][112]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/VirtualRealityBP/Blueprints/Widgets/VR_ServerList.VR_ServerList
+[2018.10.20-19.35.46:121][434]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/VR_GameMode.VR_GameMode
+[2018.10.20-19.35.46:451][434]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.10.20-19.35.49:275][599]LogSlate: Window 'CompilerResults' being destroyed
+[2018.10.20-19.35.49:281][599]LogSlate: Window 'CompilerResults' being destroyed
+[2018.10.20-19.35.52:550][790]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/VR_GameMode.VR_GameMode
+[2018.10.20-19.36.00:602][238]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/VR_GameMode.VR_GameMode
+[2018.10.20-19.36.14:878][ 59]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/VR_GameInstace.VR_GameInstace
+[2018.10.20-19.43.18:553][559]LogEditorTransaction: Undo Move Widget
+[2018.10.20-19.43.19:017][559]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.463 s
+[2018.10.20-19.43.19:017][559]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.20-19.43.19:017][559]LogOutputDevice: Error: 
+[2018.10.20-19.43.19:017][559]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2103]
+[2018.10.20-19.43.19:017][559]LogOutputDevice: Error: 
+[2018.10.20-19.43.19:017][559]LogOutputDevice: Error: Stack: 
+[2018.10.20-19.43.19:017][559]LogOutputDevice: Error: [Callstack] 0x00007ffa374271f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.20-19.43.19:017][559]LogOutputDevice: Error: [Callstack] 0x00007ffa37160c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.20-19.43.19:017][559]LogOutputDevice: Error: [Callstack] 0x00007ffa3717b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.20-19.43.19:017][559]LogOutputDevice: Error: [Callstack] 0x00007ffa344ff1e8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.20-19.43.19:017][559]LogOutputDevice: Error: [Callstack] 0x00007ffa31e54c25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.20-19.43.19:017][559]LogOutputDevice: Error: [Callstack] 0x00007ffa31e801fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.20-19.43.19:017][559]LogOutputDevice: Error: [Callstack] 0x00007ffa31e66535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.20-19.43.19:017][559]LogOutputDevice: Error: [Callstack] 0x00007ffa31ed2dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.20-19.43.19:017][559]LogOutputDevice: Error: [Callstack] 0x00007ffa31f19b6d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.20-19.43.19:017][559]LogOutputDevice: Error: [Callstack] 0x00007ffa31eac81f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ffa2ec005b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ffa335324df UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ffa3357437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ffa32703a8e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ffa326f1a08 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ffa334f70ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ffa3357606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ffa33569846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ffa900ace45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ffa900a0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ffa900af4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ffa9009c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ffaba706cc1 USER32.dll!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ffaba706693 USER32.dll!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ffa900b0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ff608d054e5 UE4Editor.exe!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ff608d15b3c UE4Editor.exe!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ff608d15bba UE4Editor.exe!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ff608d23dac UE4Editor.exe!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ff608d25aaa UE4Editor.exe!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ffaba103034 KERNEL32.DLL!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: [Callstack] 0x00007ffabb7a1461 ntdll.dll!UnknownFunction []
+[2018.10.20-19.43.19:018][559]LogOutputDevice: Error: 
+[2018.10.20-19.43.19:027][559]LogStats:                SubmitErrorReport -  0.000 s
