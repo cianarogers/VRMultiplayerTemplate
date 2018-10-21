@@ -1,0 +1,691 @@
+﻿Log file open, 10/21/18 09:03:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: VRMultiUserTemplate
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.713936
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.176s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6820HK CPU @ 2.70GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.009s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.21-13.03.35:527][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.21-13.03.35:527][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.21-13.03.35:555][  0]LogHAL: Display: Platform has ~ 32 GB [34312249344 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.21-13.03.35:555][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.21-13.03.35:555][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.21-13.03.35:562][  0]LogInit: Computer: DESKTOP-640KAOR
+[2018.10.21-13.03.35:562][  0]LogInit: User: mckre
+[2018.10.21-13.03.35:562][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.21-13.03.35:562][  0]LogInit: High frequency timer resolution =2.648439 MHz
+[2018.10.21-13.03.35:563][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.10.21-13.03.35:563][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.21-13.03.35:563][  0]LogMemory: Process Physical Memory: 104.20 MB used, 104.20 MB peak
+[2018.10.21-13.03.35:563][  0]LogMemory: Process Virtual Memory: 92.47 MB used, 92.47 MB peak
+[2018.10.21-13.03.35:563][  0]LogMemory: Physical Memory: 7588.36 MB used,  25134.35 MB free, 32722.71 MB total
+[2018.10.21-13.03.35:563][  0]LogMemory: Virtual Memory: 4653.45 MB used,  25134.35 MB free, 134217728.00 MB total
+[2018.10.21-13.03.35:813][  0]LogInit: Using OS detected language (en-US).
+[2018.10.21-13.03.35:813][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.21-13.03.35:814][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.21-13.03.36:362][  0]LogStreaming: Display: Took  0.549s to InitEngineTextLocalization.
+[2018.10.21-13.03.36:363][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.21-13.03.36:470][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.21-13.03.36:470][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.21-13.03.42:561][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.21-13.03.42:639][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.10.21-13.03.42:639][  0]LogD3D11RHI:       8081/0/16361 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.21-13.03.42:641][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.21-13.03.42:641][  0]LogD3D11RHI:       0/0/16361 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.21-13.03.42:641][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.21-13.03.42:649][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.21-13.03.42:649][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.21-13.03.42:650][  0]LogWindows: EnumDisplayDevices:
+[2018.10.21-13.03.42:650][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.10.21-13.03.42:650][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.10.21-13.03.42:650][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.10.21-13.03.42:650][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.10.21-13.03.42:651][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.21-13.03.42:651][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.10.21-13.03.42:651][  0]LogD3D11RHI:   Driver Version: 416.34 (internal:25.21.14.1634, unified:416.34)
+[2018.10.21-13.03.42:651][  0]LogD3D11RHI:      Driver Date: 10-10-2018
+[2018.10.21-13.03.42:651][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2018.10.21-13.03.42:701][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.21-13.03.42:729][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.21-13.03.42:775][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Intermediate/Shaders/WorkingDirectory/17836/).
+[2018.10.21-13.03.42:775][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mckre/AppData/Local/Temp/UnrealShaderWorkingDir/F8B3B0F7493C55EDBDA2108D8F132E21/'.
+[2018.10.21-13.03.43:345][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.21-13.03.43:370][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.21-13.03.43:397][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.21-13.03.43:424][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.21-13.03.43:459][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.21-13.03.43:488][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.21-13.03.43:517][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.21-13.03.43:546][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.21-13.03.43:566][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.21-13.03.43:689][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-13.03.43:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-13.03.43:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-13.03.43:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-13.03.43:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-13.03.43:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-13.03.43:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-13.03.43:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-13.03.43:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-13.03.43:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-13.03.43:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-13.03.43:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-13.03.43:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-13.03.43:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-13.03.43:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-13.03.43:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-13.03.43:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-13.03.43:690][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-13.03.43:705][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.21-13.03.43:818][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.21-13.03.43:818][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.21-13.03.43:866][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.21-13.03.43:866][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.21-13.03.43:894][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.21-13.03.43:921][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.21-13.03.43:950][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.21-13.03.43:989][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.21-13.03.44:013][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.21-13.03.44:013][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.21-13.03.44:383][  0]LogXGEController: Cleaning working directory: C:/Users/mckre/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.21-13.03.44:383][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.21-13.03.44:383][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.21-13.03.44:383][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.21-13.03.46:854][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.21-13.03.47:048][  0]LogDerivedDataCache: Loaded boot cache 0.19s 72MB C:/Users/mckre/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.21-13.03.47:048][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mckre/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.21-13.03.47:048][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.21-13.03.47:048][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.21-13.03.47:049][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.21-13.03.47:049][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.21-13.03.47:075][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.21-13.03.47:088][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mckre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.21-13.03.47:088][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.21-13.03.47:088][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.21-13.03.47:113][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.21-13.03.47:118][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.21-13.03.47:136][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.21-13.03.47:464][  0]LogAssetRegistry: FAssetRegistry took 0.0302 seconds to start up
+[2018.10.21-13.03.47:934][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.21-13.03.48:382][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.21-13.03.48:427][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.21-13.03.48:427][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.21-13.03.48:428][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.21-13.03.48:428][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.21-13.03.48:486][  0]LogNetVersion: VRMultiUserTemplate 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 770981243)
+[2018.10.21-13.03.50:050][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.163388 seconds
+[2018.10.21-13.03.50:060][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.21-13.03.50:060][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.21-13.03.50:060][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.21-13.03.54:763][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.21-13.03.54:792][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.21-13.03.55:320][  0]SourceControl: Source control is disabled
+[2018.10.21-13.03.56:662][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.21-13.03.56:877][  0]LogOcInput: OculusInput pre-init called
+[2018.10.21-13.03.57:064][  0]LogEngine: Initializing Engine...
+[2018.10.21-13.03.57:130][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-6B6F584B
+[2018.10.21-13.03.57:134][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2018.10.21-13.03.57:134][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.21-13.03.57:134][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.21-13.03.57:134][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.21-13.03.57:598][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.21-13.03.57:656][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.21-13.03.57:706][  0]LogInit: XAudio2 using 'Speakers (4- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.21-13.03.57:728][  0]LogInit: FAudioDevice initialized.
+[2018.10.21-13.03.57:728][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.21-13.03.57:793][  0]LogDerivedDataCache: Saved boot cache 0.06s 72MB C:/Users/mckre/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.21-13.03.57:797][  0]LogInit: Texture streaming: Enabled
+[2018.10.21-13.03.57:871][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.21-13.03.57:909][  0]LogInit: Transaction tracking system initialized
+[2018.10.21-13.03.58:024][  0]BlueprintLog: New page: Editor Load
+[2018.10.21-13.03.58:489][  0]LocalizationService: Localization service is disabled
+[2018.10.21-13.03.59:595][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.21-13.03.59:596][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.21-13.03.59:596][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.21-13.03.59:596][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.21-13.03.59:596][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.21-13.03.59:596][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.21-13.03.59:596][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.21-13.04.00:047][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/' took 0.02s
+[2018.10.21-13.04.00:294][  0]LightingResults: New page: Lighting Build
+[2018.10.21-13.04.00:303][  0]MapCheck: New page: Map Check
+[2018.10.21-13.04.00:303][  0]LightingResults: New page: Lighting Build
+[2018.10.21-13.04.01:731][  0]LogAIModule: Creating AISystem for world MultiUser_StartupMap
+[2018.10.21-13.04.01:757][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.21-13.04.01:794][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.21-13.04.01:891][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 96.442ms to complete.
+[2018.10.21-13.04.01:891][  0]LogFileHelpers: Loading map 'MultiUser_StartupMap' took 1.598
+[2018.10.21-13.04.02:074][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-13.04.02:083][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-13.04.02:092][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-13.04.02:102][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-13.04.02:294][  0]LogCollectionManager: Loaded 0 collections in 0.002432 seconds
+[2018.10.21-13.04.02:348][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/Collections/' took 0.01s
+[2018.10.21-13.04.02:348][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/Developers/mckre/Collections/' took 0.01s
+[2018.10.21-13.04.02:348][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/Collections/' took 0.01s
+[2018.10.21-13.04.02:348][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.21-13.04.02:362][  0]LogContentBrowser: Native class hierarchy populated in 0.0131 seconds. Added 2573 classes and 605 folders.
+[2018.10.21-13.04.02:372][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.21-13.04.02:834][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.21-13.04.02:860][  0]LogSlate: Took 0.007604 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.21-13.04.02:870][  0]LogSlate: Took 0.006047 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.21-13.04.02:885][  0]LogSlate: Took 0.006678 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.21-13.04.03:014][  0]LogRenderer: Reallocating scene render targets to support 832x400 Format 26 NumSamples 1 (Frame:1).
+[2018.10.21-13.04.03:157][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.21-13.04.03:157][  0]LogLoad: (Engine Initialization) Total time: 33.71 seconds
+[2018.10.21-13.04.03:157][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.21-13.04.03:214][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.21-13.04.03:296][  0]LogRenderer: Reallocating scene render targets to support 832x408 Format 26 NumSamples 1 (Frame:2).
+[2018.10.21-13.04.03:296][  0]LogSlate: Took 0.007499 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.21-13.04.03:324][  1]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.10.21-13.04.03:324][  1]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.10.21-13.04.03:342][  1]LogAssetRegistry: Asset discovery search completed in 15.9014 seconds
+[2018.10.21-13.04.03:345][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.21-13.04.03:345][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000101 seconds (updated 0 objects)
+[2018.10.21-13.04.04:214][ 51]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.21-13.04.06:764][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.04.10:898][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.04.11:063][461]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn
+[2018.10.21-13.04.11:785][461]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.10.21-13.04.12:871][461]LogSlate: Took 0.005820 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.21-13.04.13:197][462]LogSlate: Took 0.006464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.21-13.04.16:299][643]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/User/BP_MotionController.BP_MotionController
+[2018.10.21-13.04.25:854][164]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-13.04.26:743][164]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionControllerDDAE31934E46B153192F7592FD781F1C.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-13.04.44:549][209]LogRenderer: Reallocating scene render targets to support 908x488 Format 26 NumSamples 1 (Frame:1).
+[2018.10.21-13.05.44:225][760]LogUObjectBase: Warning: Object is not registered
+[2018.10.21-13.05.44:680][760]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.454 s
+[2018.10.21-13.05.44:680][760]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.21-13.05.44:680][760]LogOutputDevice: Error: 
+[2018.10.21-13.05.44:680][760]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2018.10.21-13.05.44:680][760]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.10.21-13.05.44:680][760]LogOutputDevice: Error: Stack: 
+[2018.10.21-13.05.44:680][760]LogOutputDevice: Error: [Callstack] 0x00007ffa4d6a71f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ffa4d3e0c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ffa4d3fb356 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ffa445a11db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ffa445b060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ffa4a97da7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ffa493dec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ffa4939f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ffa4cc98204 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ffa4cede933 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ffa4ccf281a UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ffa4ccc8190 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ffa4ccbb073 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ffa558dd007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ffa558d0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ffa558df4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ffa558cc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ffaba706cc1 USER32.dll!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ffaba706693 USER32.dll!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ffa558e0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ff7a1ee54e5 UE4Editor.exe!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ff7a1ef5b3c UE4Editor.exe!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ff7a1ef5bba UE4Editor.exe!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ff7a1f03dac UE4Editor.exe!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ff7a1f05aaa UE4Editor.exe!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ffaba103034 KERNEL32.DLL!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: [Callstack] 0x00007ffabb7a1461 ntdll.dll!UnknownFunction []
+[2018.10.21-13.05.44:681][760]LogOutputDevice: Error: 
+[2018.10.21-13.05.44:692][760]LogStats:                SubmitErrorReport -  0.000 s
+[2018.10.21-13.05.45:351][760]LogStats:                    SendNewReport -  0.660 s
+[2018.10.21-13.05.45:351][760]LogStats:             FDebug::EnsureFailed -  1.126 s
+[2018.10.21-13.05.45:351][760]LogUObjectBase: Warning: Object is not registered
+[2018.10.21-13.06.02:194][764]LogUObjectBase: Warning: Object is not registered
+[2018.10.21-13.06.02:194][764]LogUObjectBase: Warning: Object is not registered
+[2018.10.21-13.06.02:196][764]LogUObjectBase: Warning: Object is not registered
+[2018.10.21-13.06.02:198][764]LogUObjectBase: Warning: Object is not registered
+[2018.10.21-13.06.02:202][764]LogUObjectBase: Warning: Object is not registered
+[2018.10.21-13.06.02:212][765]LogUObjectBase: Warning: Object is not registered
+[2018.10.21-13.06.02:214][765]LogUObjectBase: Warning: Object is not registered
+[2018.10.21-13.06.02:218][765]LogUObjectBase: Warning: Object is not registered
+[2018.10.21-13.06.02:228][766]LogUObjectBase: Warning: Object is not registered
+[2018.10.21-13.06.02:229][766]LogUObjectBase: Warning: Object is not registered
+[2018.10.21-13.06.02:231][766]LogUObjectBase: Warning: Object is not registered
+[2018.10.21-13.06.02:234][766]LogUObjectBase: Warning: Object is not registered
+[2018.10.21-13.09.24:229][ 13]LogHttp: Warning: 00000209CFC6E0C0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-13.09.24:229][ 13]LogHttp: Warning: 00000209CFC6E0C0: libcurl info message cache 0 (Connection 1 seems to be dead!)
+[2018.10.21-13.09.24:229][ 13]LogHttp: Warning: 00000209CFC6E0C0: libcurl info message cache 1 (Closing connection 1)
+[2018.10.21-13.09.24:229][ 13]LogHttp: Warning: 00000209CFC6E0C0: libcurl info message cache 2 (  Trying 10.0.0.1...)
+[2018.10.21-13.09.24:229][ 13]LogHttp: Warning: 00000209CFC6E0C0: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.10.21-13.09.24:229][ 13]LogHttp: Warning: 00000209CFC6E0C0: libcurl info message cache 4 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-13.09.24:229][ 13]LogHttp: Warning: 00000209CFC6E0C0: libcurl info message cache 5 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-13.09.24:229][ 13]LogHttp: Warning: 00000209CFC6E0C0: libcurl info message cache 6 (Closing connection 2)
+[2018.10.21-13.11.19:620][562]LogTemp: Repeating last play command: VR Preview
+[2018.10.21-13.11.19:656][562]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel.MultiUser_StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel.MultiUser_StartupMap'
+[2018.10.21-13.11.19:657][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.21-13.11.19:673][562]PIE: New page: PIE session: MultiUser_StartupMap (Oct 21, 2018, 5:11:19 AM)
+[2018.10.21-13.11.19:682][562]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_StartupMap
+[2018.10.21-13.11.19:689][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007032s)
+[2018.10.21-13.11.19:690][562]LogAIModule: Creating AISystem for world MultiUser_StartupMap
+[2018.10.21-13.11.19:690][562]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2018.10.21-13.11.19:690][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_StartupMap.MultiUser_StartupMap (0.008223s)
+[2018.10.21-13.11.19:762][562]LogInit: XAudio2 using 'Speakers (4- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.21-13.11.19:778][562]LogInit: FAudioDevice initialized.
+[2018.10.21-13.11.19:788][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-13.11.19:881][562]LogLoad: Game class is 'VR_GameMode_C'
+[2018.10.21-13.11.19:884][562]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_StartupMap.MultiUser_StartupMap up for play (max tick rate 0) at 2018.10.21-09.11.19
+[2018.10.21-13.11.19:885][562]LogWorld: Bringing up level for play took: 0.001465
+[2018.10.21-13.11.19:897][562]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.21-13.11.19:904][562]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.10.21-13.11.19:905][562]LogBlueprintUserMessages: [VR_GameMode_C_0] Hello Server
+[2018.10.21-13.11.19:906][562]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.21-13.11.19:906][562]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.21-13.11.19:906][562]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.21-13.11.19:906][562]LogBlueprintUserMessages: [VRPawn_507] Spawn Hands
+[2018.10.21-13.11.19:915][562]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.21-13.11.19:921][562]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_StartupMap 0.855
+[2018.10.21-13.11.19:922][562]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel.MultiUser_StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel.MultiUser_StartupMap'
+[2018.10.21-13.11.19:978][563]LogRenderer: Reallocating scene render targets to support 3480x1932 Format 26 NumSamples 1 (Frame:1).
+[2018.10.21-13.11.45:280][819]LogHttp: Warning: 00000209DCA2AFC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-13.11.45:280][819]LogHttp: Warning: 00000209DCA2AFC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-13.11.45:280][819]LogHttp: Warning: 00000209DCA2AFC0: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-13.11.45:280][819]LogHttp: Warning: 00000209DCA2AFC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-13.11.45:280][819]LogHttp: Warning: 00000209DCA2AFC0: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-13.11.45:280][819]LogHttp: Warning: 00000209DCA2AFC0: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-13.11.45:280][819]LogHttp: Warning: 00000209DCA2AFC0: libcurl info message cache 5 (Closing connection 3)
+[2018.10.21-13.11.53:069][516]LogInit: WinSock: I am DESKTOP-640KAOR (192.168.1.118:0)
+[2018.10.21-13.11.53:079][517]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.10.21-13.11.53:079][517]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.10.21-13.11.53:080][517]LogNet: Browse: /Game/VirtualRealityBP/Maps/MultiUser_Map?listen
+[2018.10.21-13.11.53:088][517]LogLoad: LoadMap: /Game/VirtualRealityBP/Maps/MultiUser_Map?listen
+[2018.10.21-13.11.53:838][517]LogAIModule: Creating AISystem for world MultiUser_Map
+[2018.10.21-13.11.53:838][517]LogLoad: Game class is 'VR_GameMode_C'
+[2018.10.21-13.11.53:839][517]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.21-13.11.53:839][517]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.10.21-13.11.53:839][517]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.21-13.11.53:839][517]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2018.10.21-13.11.53:839][517]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.10.21-13.11.53:840][517]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.10.21-13.11.53:840][517]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2018.10.21-13.11.53:845][517]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map up for play (max tick rate 0) at 2018.10.21-09.11.53
+[2018.10.21-13.11.53:846][517]LogWorld: Bringing up level for play took: 0.004972
+[2018.10.21-13.11.53:847][517]LogBlueprintUserMessages: [VR_GameMode_C_0] Server: Hello Server
+[2018.10.21-13.11.53:847][517]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.21-13.11.53:847][517]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.21-13.11.53:847][517]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.21-13.11.53:848][517]LogBlueprintUserMessages: [MotionControllerPawn_C_0] Server: Spawn Hands
+[2018.10.21-13.11.53:851][517]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.21-13.11.53:851][517]LogLoad: Took 0.763105 seconds to LoadMap(/Game/VirtualRealityBP/Maps/MultiUser_Map)
+[2018.10.21-13.13.11:013][393]LogNet: NotifyAcceptingConnection accepted from: 192.168.1.209:54862
+[2018.10.21-13.13.11:014][393]LogHandshake: SendConnectChallenge. Timestamp: 77.946297, Cookie: 121000023255051036191189045098111128162244235185031215215221
+[2018.10.21-13.13.11:019][394]LogNet: NotifyAcceptingConnection accepted from: 192.168.1.209:54862
+[2018.10.21-13.13.11:020][394]LogHandshake: SendChallengeAck. InCookie: 121000023255051036191189045098111128162244235185031215215221
+[2018.10.21-13.13.11:020][394]LogNet: Server accepting post-challenge connection from: 192.168.1.209:54862
+[2018.10.21-13.13.11:020][394]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.10.21-13.13.11:022][394]LogNet: NotifyAcceptedConnection: Name: MultiUser_Map, TimeStamp: 10/21/18 09:13:11, [UNetConnection] RemoteAddr: 192.168.1.209:54862, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.21-13.13.11:022][394]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.1.209:54862, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.21-13.13.11:030][395]LogNet: NotifyAcceptingChannel Control 0 server World /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map: Accepted
+[2018.10.21-13.13.11:030][395]LogNet: Remote platform little endian=1
+[2018.10.21-13.13.11:031][395]LogNet: This platform little endian=1
+[2018.10.21-13.13.11:031][395]LogNetVersion: VRMultiUserTemplate 1.0.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 595416371)
+[2018.10.21-13.13.11:041][396]LogNet: Login request: /Game/VirtualRealityBP/Maps/MultiUser_StartupMap?Name=DESKTOP-QPCJATV-C8F01EE141F5B30C73CAC0A2B5576A53 userId: DESKTOP-QPCJATV-C8F01EE141F5B30C73CAC0A2B5576A53
+[2018.10.21-13.13.11:054][397]LogNet: Client netspeed is 10000
+[2018.10.21-13.13.11:476][435]LogNet: Join request: /Game/VirtualRealityBP/Maps/MultiUser_StartupMap?Name=DESKTOP-QPCJATV-C8F01EE141F5B30C73CAC0A2B5576A53?SplitscreenCount=1
+[2018.10.21-13.13.11:479][435]LogBlueprintUserMessages: [VR_GameMode_C_0] Server: Hello Server
+[2018.10.21-13.13.11:479][435]LogBlueprintUserMessages: [MotionControllerPawn_C_1] Server: Spawn Hands
+[2018.10.21-13.13.11:482][435]LogNet: Join succeeded: DESKTOP-QPCJATV-C8F0
+[2018.10.21-13.13.11:544][441]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: StaticMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_1.StaticMeshComponent_0 NOT Supported.
+[2018.10.21-13.13.11:545][441]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: DrawFrustumComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_1.DrawFrustumComponent_0 NOT Supported.
+[2018.10.21-13.13.11:579][444]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: StaticMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_0.StaticMeshComponent_0 NOT Supported.
+[2018.10.21-13.13.11:579][444]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: DrawFrustumComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_0.DrawFrustumComponent_0 NOT Supported.
+[2018.10.21-13.13.16:619][892]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: PathName: BP_MotionController_C_5, ObjOuter: /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel 
+[2018.10.21-13.13.16:619][892]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_MotionController
+	MotionControllerPawn_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_1
+	Function /Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn:0B51
+[2018.10.21-13.13.16:619][892]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_MotionController". Blueprint:  MotionControllerPawn Function:  Execute Ubergraph Motion Controller Pawn Graph:  EventGraph Node:  Branch
+[2018.10.21-13.13.16:619][892]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_MotionController
+	MotionControllerPawn_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_1
+	Function /Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn:0B77
+[2018.10.21-13.13.16:619][892]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_MotionController". Blueprint:  MotionControllerPawn Function:  Execute Ubergraph Motion Controller Pawn Graph:  EventGraph Node:  Disable Teleporter
+[2018.10.21-13.13.16:619][892]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: PathName: BP_MotionController_C_5, ObjOuter: /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel 
+[2018.10.21-13.13.16:619][892]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_MotionController
+	MotionControllerPawn_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_1
+	Function /Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn:0B51
+[2018.10.21-13.13.16:619][892]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_MotionController". Blueprint:  MotionControllerPawn Function:  Execute Ubergraph Motion Controller Pawn Graph:  EventGraph Node:  Branch
+[2018.10.21-13.13.16:620][892]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_MotionController
+	MotionControllerPawn_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_1
+	Function /Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn:0B77
+[2018.10.21-13.13.16:620][892]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_MotionController". Blueprint:  MotionControllerPawn Function:  Execute Ubergraph Motion Controller Pawn Graph:  EventGraph Node:  Disable Teleporter
+[2018.10.21-13.13.17:435][965]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: PathName: BP_MotionController_C_4, ObjOuter: /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel 
+[2018.10.21-13.13.17:435][965]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_MotionController
+	MotionControllerPawn_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_1
+	Function /Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn:0B51
+[2018.10.21-13.13.17:435][965]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_MotionController". Blueprint:  MotionControllerPawn Function:  Execute Ubergraph Motion Controller Pawn Graph:  EventGraph Node:  Branch
+[2018.10.21-13.13.17:435][965]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_MotionController
+	MotionControllerPawn_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_1
+	Function /Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn:0B77
+[2018.10.21-13.13.17:435][965]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_MotionController". Blueprint:  MotionControllerPawn Function:  Execute Ubergraph Motion Controller Pawn Graph:  EventGraph Node:  Disable Teleporter
+[2018.10.21-13.13.17:435][965]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: PathName: BP_MotionController_C_4, ObjOuter: /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel 
+[2018.10.21-13.13.17:435][965]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_MotionController
+	MotionControllerPawn_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_1
+	Function /Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn:0B51
+[2018.10.21-13.13.17:435][965]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_MotionController". Blueprint:  MotionControllerPawn Function:  Execute Ubergraph Motion Controller Pawn Graph:  EventGraph Node:  Branch
+[2018.10.21-13.13.17:436][965]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_MotionController
+	MotionControllerPawn_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_1
+	Function /Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn:0B77
+[2018.10.21-13.13.17:436][965]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_MotionController". Blueprint:  MotionControllerPawn Function:  Execute Ubergraph Motion Controller Pawn Graph:  EventGraph Node:  Disable Teleporter
+[2018.10.21-13.13.20:268][219]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: PathName: BP_MotionController_C_5, ObjOuter: /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel 
+[2018.10.21-13.13.20:268][219]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_MotionController
+	MotionControllerPawn_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_1
+	Function /Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn:0B51
+[2018.10.21-13.13.20:268][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_MotionController". Blueprint:  MotionControllerPawn Function:  Execute Ubergraph Motion Controller Pawn Graph:  EventGraph Node:  Branch
+[2018.10.21-13.13.20:268][219]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_MotionController
+	MotionControllerPawn_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_1
+	Function /Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn:0B77
+[2018.10.21-13.13.20:268][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_MotionController". Blueprint:  MotionControllerPawn Function:  Execute Ubergraph Motion Controller Pawn Graph:  EventGraph Node:  Disable Teleporter
+[2018.10.21-13.13.20:268][219]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: PathName: BP_MotionController_C_5, ObjOuter: /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel 
+[2018.10.21-13.13.20:268][219]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_MotionController
+	MotionControllerPawn_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_1
+	Function /Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn:0B51
+[2018.10.21-13.13.20:269][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_MotionController". Blueprint:  MotionControllerPawn Function:  Execute Ubergraph Motion Controller Pawn Graph:  EventGraph Node:  Branch
+[2018.10.21-13.13.20:269][219]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_MotionController
+	MotionControllerPawn_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_1
+	Function /Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn:0B77
+[2018.10.21-13.13.20:269][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_MotionController". Blueprint:  MotionControllerPawn Function:  Execute Ubergraph Motion Controller Pawn Graph:  EventGraph Node:  Disable Teleporter
+[2018.10.21-13.13.20:838][270]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: PathName: BP_MotionController_C_4, ObjOuter: /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel 
+[2018.10.21-13.13.20:838][270]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_MotionController
+	MotionControllerPawn_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_1
+	Function /Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn:0B51
+[2018.10.21-13.13.20:838][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_MotionController". Blueprint:  MotionControllerPawn Function:  Execute Ubergraph Motion Controller Pawn Graph:  EventGraph Node:  Branch
+[2018.10.21-13.13.20:838][270]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_MotionController
+	MotionControllerPawn_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_1
+	Function /Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn:0B77
+[2018.10.21-13.13.20:838][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_MotionController". Blueprint:  MotionControllerPawn Function:  Execute Ubergraph Motion Controller Pawn Graph:  EventGraph Node:  Disable Teleporter
+[2018.10.21-13.13.20:838][270]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: PathName: BP_MotionController_C_4, ObjOuter: /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel 
+[2018.10.21-13.13.20:838][270]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_MotionController
+	MotionControllerPawn_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_1
+	Function /Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn:0B51
+[2018.10.21-13.13.20:838][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_MotionController". Blueprint:  MotionControllerPawn Function:  Execute Ubergraph Motion Controller Pawn Graph:  EventGraph Node:  Branch
+[2018.10.21-13.13.20:838][270]LogScript: Warning: Accessed None trying to read property K2Node_CustomEvent_MotionController
+	MotionControllerPawn_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_1
+	Function /Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn:0B77
+[2018.10.21-13.13.20:838][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_CustomEvent_MotionController". Blueprint:  MotionControllerPawn Function:  Execute Ubergraph Motion Controller Pawn Graph:  EventGraph Node:  Disable Teleporter
+[2018.10.21-13.14.06:312][315]LogHttp: Warning: 0000020986AFE980: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-13.14.06:312][315]LogHttp: Warning: 0000020986AFE980: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-13.14.06:312][315]LogHttp: Warning: 0000020986AFE980: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-13.14.06:312][315]LogHttp: Warning: 0000020986AFE980: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-13.14.06:312][315]LogHttp: Warning: 0000020986AFE980: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-13.14.06:312][315]LogHttp: Warning: 0000020986AFE980: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-13.14.06:312][315]LogHttp: Warning: 0000020986AFE980: libcurl info message cache 5 (Closing connection 4)
+[2018.10.21-13.15.25:465][343]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel.MultiUser_StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel.MultiUser_StartupMap'
+[2018.10.21-13.15.25:551][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-13.15.25:614][343]LogSlate: Window 'VRMultiUserTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.21-13.15.25:651][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.21-13.15.25:651][343]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel.MultiUser_StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel.MultiUser_StartupMap'
+[2018.10.21-13.15.25:683][343]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.209:54862, Name: IpConnection_0, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:DESKTOP-QPCJATV-C8F01EE141F5B30C73CAC0A2B5576A53
+[2018.10.21-13.15.25:683][343]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.1.209:54862, Name: IpConnection_0, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:DESKTOP-QPCJATV-C8F01EE141F5B30C73CAC0A2B5576A53, Channels: 2, Time: 2018.10.21-13.15.25
+[2018.10.21-13.15.25:683][343]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.209:54862, Name: IpConnection_0, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:DESKTOP-QPCJATV-C8F01EE141F5B30C73CAC0A2B5576A53
+[2018.10.21-13.15.25:689][343]LogExit: GameNetDriver None shut down
+[2018.10.21-13.15.25:720][344]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.10.21-13.16.27:369][ 38]LogHttp: Warning: 000002098EAB3600: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-13.16.27:369][ 38]LogHttp: Warning: 000002098EAB3600: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-13.16.27:369][ 38]LogHttp: Warning: 000002098EAB3600: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-13.16.27:369][ 38]LogHttp: Warning: 000002098EAB3600: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-13.16.27:369][ 38]LogHttp: Warning: 000002098EAB3600: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-13.16.27:369][ 38]LogHttp: Warning: 000002098EAB3600: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-13.16.27:369][ 38]LogHttp: Warning: 000002098EAB3600: libcurl info message cache 5 (Closing connection 5)
+[2018.10.21-13.18.17:125][594]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-13.18.18:021][594]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionController422FFB9A4F5599CAC7B74584A62D064E.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-13.18.39:326][554]LogSlate: Window 'Save Content' being destroyed
+[2018.10.21-13.18.39:787][554]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MultiUser_StartupMapDEE89A2F4B277D2ACD6C96980B3BA00D.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Maps/MultiUser_StartupMap.umap'
+[2018.10.21-13.18.39:837][554]LogFileHelpers: Saving map 'MultiUser_StartupMap' took 0.408
+[2018.10.21-13.18.48:674][608]LogHttp: Warning: 00000209D0E14E00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-13.18.48:674][608]LogHttp: Warning: 00000209D0E14E00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-13.18.48:674][608]LogHttp: Warning: 00000209D0E14E00: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-13.18.48:674][608]LogHttp: Warning: 00000209D0E14E00: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-13.18.48:674][608]LogHttp: Warning: 00000209D0E14E00: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-13.18.48:674][608]LogHttp: Warning: 00000209D0E14E00: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-13.18.48:674][608]LogHttp: Warning: 00000209D0E14E00: libcurl info message cache 5 (Closing connection 6)
+[2018.10.21-13.21.09:792][ 47]LogHttp: Warning: 00000209D0C58400: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-13.21.09:793][ 47]LogHttp: Warning: 00000209D0C58400: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-13.21.09:793][ 47]LogHttp: Warning: 00000209D0C58400: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-13.21.09:793][ 47]LogHttp: Warning: 00000209D0C58400: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-13.21.09:793][ 47]LogHttp: Warning: 00000209D0C58400: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-13.21.09:793][ 47]LogHttp: Warning: 00000209D0C58400: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-13.21.09:793][ 47]LogHttp: Warning: 00000209D0C58400: libcurl info message cache 5 (Closing connection 7)
+[2018.10.21-13.21.18:856][590]LogTemp: Repeating last play command: VR Preview
+[2018.10.21-13.21.18:903][590]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel.MultiUser_StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel.MultiUser_StartupMap'
+[2018.10.21-13.21.18:903][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.21-13.21.18:903][590]PIE: New page: PIE session: MultiUser_StartupMap (Oct 21, 2018, 5:21:18 AM)
+[2018.10.21-13.21.19:042][590]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_StartupMap
+[2018.10.21-13.21.19:048][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005611s)
+[2018.10.21-13.21.19:049][590]LogAIModule: Creating AISystem for world MultiUser_StartupMap
+[2018.10.21-13.21.19:049][590]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2018.10.21-13.21.19:049][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_StartupMap.MultiUser_StartupMap (0.006679s)
+[2018.10.21-13.21.19:124][590]LogInit: XAudio2 using 'Speakers (4- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.21-13.21.19:140][590]LogInit: FAudioDevice initialized.
+[2018.10.21-13.21.19:150][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-13.21.19:234][590]LogLoad: Game class is 'VR_GameMode_C'
+[2018.10.21-13.21.19:235][590]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_StartupMap.MultiUser_StartupMap up for play (max tick rate 0) at 2018.10.21-09.21.19
+[2018.10.21-13.21.19:235][590]LogWorld: Bringing up level for play took: 0.001160
+[2018.10.21-13.21.19:247][590]LogBlueprintUserMessages: [VR_GameMode_C_0] Hello Server
+[2018.10.21-13.21.19:248][590]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.21-13.21.19:248][590]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.21-13.21.19:248][590]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.21-13.21.19:248][590]LogBlueprintUserMessages: [VRPawn_507] Spawn Hands
+[2018.10.21-13.21.19:253][590]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.21-13.21.19:257][590]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_StartupMap 0.191
+[2018.10.21-13.21.19:257][590]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel.MultiUser_StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel.MultiUser_StartupMap'
+[2018.10.21-13.21.43:703][774]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.10.21-13.21.43:703][774]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.10.21-13.21.43:703][774]LogNet: Browse: /Game/VirtualRealityBP/Maps/MultiUser_Map?listen
+[2018.10.21-13.21.43:713][774]LogLoad: LoadMap: /Game/VirtualRealityBP/Maps/MultiUser_Map?listen
+[2018.10.21-13.21.43:848][774]LogAIModule: Creating AISystem for world MultiUser_Map
+[2018.10.21-13.21.43:849][774]LogLoad: Game class is 'VR_GameMode_C'
+[2018.10.21-13.21.43:849][774]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.21-13.21.43:849][774]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2018.10.21-13.21.43:849][774]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.10.21-13.21.43:849][774]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2018.10.21-13.21.43:850][774]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.10.21-13.21.43:850][774]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.10.21-13.21.43:850][774]LogNet: GameNetDriver IpNetDriver_1 IpNetDriver listening on port 7777
+[2018.10.21-13.21.43:855][774]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map up for play (max tick rate 0) at 2018.10.21-09.21.43
+[2018.10.21-13.21.43:855][774]LogWorld: Bringing up level for play took: 0.004226
+[2018.10.21-13.21.43:856][774]LogBlueprintUserMessages: [VR_GameMode_C_0] Server: Hello Server
+[2018.10.21-13.21.43:856][774]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.21-13.21.43:856][774]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.21-13.21.43:856][774]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.21-13.21.43:857][774]LogBlueprintUserMessages: [MotionControllerPawn_C_0] Server: Spawn Hands
+[2018.10.21-13.21.43:860][774]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.21-13.21.43:860][774]LogLoad: Took 0.147737 seconds to LoadMap(/Game/VirtualRealityBP/Maps/MultiUser_Map)
+[2018.10.21-13.23.30:823][286]LogHttp: Warning: 00000209DDF9F380: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-13.23.30:823][286]LogHttp: Warning: 00000209DDF9F380: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-13.23.30:823][286]LogHttp: Warning: 00000209DDF9F380: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-13.23.30:823][286]LogHttp: Warning: 00000209DDF9F380: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-13.23.30:823][286]LogHttp: Warning: 00000209DDF9F380: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-13.23.30:823][286]LogHttp: Warning: 00000209DDF9F380: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-13.23.30:823][286]LogHttp: Warning: 00000209DDF9F380: libcurl info message cache 5 (Closing connection 8)
+[2018.10.21-13.25.19:473][827]LogNet: NotifyAcceptingConnection accepted from: 192.168.1.209:64567
+[2018.10.21-13.25.19:473][827]LogHandshake: SendConnectChallenge. Timestamp: 215.781250, Cookie: 083118037169077047030111207124165009148098246071150029192117
+[2018.10.21-13.25.19:496][829]LogNet: NotifyAcceptingConnection accepted from: 192.168.1.209:64567
+[2018.10.21-13.25.19:496][829]LogHandshake: SendChallengeAck. InCookie: 083118037169077047030111207124165009148098246071150029192117
+[2018.10.21-13.25.19:496][829]LogNet: Server accepting post-challenge connection from: 192.168.1.209:64567
+[2018.10.21-13.25.19:497][829]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.10.21-13.25.19:497][829]LogNet: NotifyAcceptedConnection: Name: MultiUser_Map, TimeStamp: 10/21/18 09:25:19, [UNetConnection] RemoteAddr: 192.168.1.209:64567, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_1, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.21-13.25.19:497][829]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.1.209:64567, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_1, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.10.21-13.25.19:509][830]LogNet: NotifyAcceptingChannel Control 0 server World /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map: Accepted
+[2018.10.21-13.25.19:509][830]LogNet: Remote platform little endian=1
+[2018.10.21-13.25.19:509][830]LogNet: This platform little endian=1
+[2018.10.21-13.25.19:518][831]LogNet: Login request: /Game/VirtualRealityBP/Maps/MultiUser_StartupMap?Name=DESKTOP-QPCJATV-C8F01EE141F5B30C73CAC0A2B5576A53 userId: DESKTOP-QPCJATV-C8F01EE141F5B30C73CAC0A2B5576A53
+[2018.10.21-13.25.19:530][832]LogNet: Client netspeed is 10000
+[2018.10.21-13.25.21:529][ 11]LogNet: Join request: /Game/VirtualRealityBP/Maps/MultiUser_StartupMap?Name=DESKTOP-QPCJATV-C8F01EE141F5B30C73CAC0A2B5576A53?SplitscreenCount=1
+[2018.10.21-13.25.21:530][ 11]LogBlueprintUserMessages: [VR_GameMode_C_0] Server: Hello Server
+[2018.10.21-13.25.21:531][ 11]LogBlueprintUserMessages: [MotionControllerPawn_C_1] Server: Spawn Hands
+[2018.10.21-13.25.21:534][ 11]LogNet: Join succeeded: DESKTOP-QPCJATV-C8F0
+[2018.10.21-13.25.21:608][ 18]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: StaticMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_1.StaticMeshComponent_0 NOT Supported.
+[2018.10.21-13.25.21:608][ 18]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: DrawFrustumComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_1.DrawFrustumComponent_0 NOT Supported.
+[2018.10.21-13.25.21:654][ 22]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: StaticMeshComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_0.StaticMeshComponent_0 NOT Supported.
+[2018.10.21-13.25.21:654][ 22]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: DrawFrustumComponent /Game/VirtualRealityBP/Maps/UEDPIE_0_MultiUser_Map.MultiUser_Map:PersistentLevel.MotionControllerPawn_C_0.DrawFrustumComponent_0 NOT Supported.
+[2018.10.21-13.25.51:858][546]LogHttp: Warning: 000002098E442E80: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-13.25.51:858][546]LogHttp: Warning: 000002098E442E80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-13.25.51:858][546]LogHttp: Warning: 000002098E442E80: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-13.25.51:858][546]LogHttp: Warning: 000002098E442E80: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-13.25.51:858][546]LogHttp: Warning: 000002098E442E80: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-13.25.51:858][546]LogHttp: Warning: 000002098E442E80: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-13.25.51:858][546]LogHttp: Warning: 000002098E442E80: libcurl info message cache 5 (Closing connection 9)
+[2018.10.21-13.26.12:016][230]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel.MultiUser_StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel.MultiUser_StartupMap'
+[2018.10.21-13.26.12:095][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-13.26.12:154][230]LogSlate: Window 'VRMultiUserTemplate Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.21-13.26.12:191][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.21-13.26.12:192][230]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel.MultiUser_StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel.MultiUser_StartupMap'
+[2018.10.21-13.26.12:223][230]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.209:64567, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_1, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:DESKTOP-QPCJATV-C8F01EE141F5B30C73CAC0A2B5576A53
+[2018.10.21-13.26.12:224][230]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.1.209:64567, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_1, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:DESKTOP-QPCJATV-C8F01EE141F5B30C73CAC0A2B5576A53, Channels: 3, Time: 2018.10.21-13.26.12
+[2018.10.21-13.26.12:224][230]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.209:64567, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_1, IsServer: YES, PC: None, Owner: None, UniqueId: NULL:DESKTOP-QPCJATV-C8F01EE141F5B30C73CAC0A2B5576A53
+[2018.10.21-13.26.12:228][230]LogExit: GameNetDriver None shut down
+[2018.10.21-13.26.12:251][231]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.10.21-13.26.43:588][308]LogSlate: Window 'Submit Files' being destroyed
+[2018.10.21-13.26.44:191][308]SourceControl: On branch master
+[2018.10.21-13.26.44:191][308]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.10.21-13.26.44:191][308]SourceControl: Changes not staged for commit:
+[2018.10.21-13.26.44:191][308]SourceControl: 	modified:   VRMultiUserTemplate/Saved/Logs/VRMultiUserTemplate.log
+[2018.10.21-13.26.44:191][308]SourceControl: Untracked files:
+[2018.10.21-13.26.44:191][308]SourceControl: 	VRMultiUserTemplate/Saved/Logs/Git-Temp7A3A18D94B88BBA2D77191AA46CF6084.txt
+[2018.10.21-13.26.44:191][308]SourceControl: no changes added to commit
