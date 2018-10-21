@@ -465,3 +465,58 @@ LogInit: Object subsystem initialized
 [2018.10.21-03.36.34:006][219]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionControllerC72BBA99405A8100542B03A88CD0EC42.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
 [2018.10.21-03.36.38:019][428]BlueprintLog: New page: Compile BP_MotionController
 [2018.10.21-03.36.38:788][428]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionController107092564FC8D2B31F38B48F7034B039.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.38.15:634][ 48]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MultiUser_StartupMap_Auto18C3D212C48D083C9EDD6B8BC36D2C6DA.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Maps/MultiUser_StartupMap_Auto1.umap'
+[2018.10.21-03.38.15:640][ 48]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap' took 0.271
+[2018.10.21-03.38.15:640][ 48]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.271
+[2018.10.21-03.39.26:218][261]LogHttp: Warning: 000001F390A41300: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-03.39.26:218][261]LogHttp: Warning: 000001F390A41300: libcurl info message cache 0 (Connection 8 seems to be dead!)
+[2018.10.21-03.39.26:218][261]LogHttp: Warning: 000001F390A41300: libcurl info message cache 1 (Closing connection 8)
+[2018.10.21-03.39.26:218][261]LogHttp: Warning: 000001F390A41300: libcurl info message cache 2 (  Trying 10.0.0.1...)
+[2018.10.21-03.39.26:218][261]LogHttp: Warning: 000001F390A41300: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.10.21-03.39.26:218][261]LogHttp: Warning: 000001F390A41300: libcurl info message cache 4 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-03.39.26:218][261]LogHttp: Warning: 000001F390A41300: libcurl info message cache 5 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-03.39.26:218][261]LogHttp: Warning: 000001F390A41300: libcurl info message cache 6 (Closing connection 9)
+[2018.10.21-03.41.47:511][683]LogHttp: Warning: 000001F390A41300: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-03.41.47:511][683]LogHttp: Warning: 000001F390A41300: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-03.41.47:511][683]LogHttp: Warning: 000001F390A41300: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-03.41.47:511][683]LogHttp: Warning: 000001F390A41300: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-03.41.47:511][683]LogHttp: Warning: 000001F390A41300: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-03.41.47:511][683]LogHttp: Warning: 000001F390A41300: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-03.41.47:511][683]LogHttp: Warning: 000001F390A41300: libcurl info message cache 5 (Closing connection 10)
+[2018.10.21-03.44.08:892][105]LogHttp: Warning: 000001F390A41300: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-03.44.08:892][105]LogHttp: Warning: 000001F390A41300: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-03.44.08:892][105]LogHttp: Warning: 000001F390A41300: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-03.44.08:892][105]LogHttp: Warning: 000001F390A41300: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-03.44.08:892][105]LogHttp: Warning: 000001F390A41300: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-03.44.08:892][105]LogHttp: Warning: 000001F390A41300: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-03.44.08:892][105]LogHttp: Warning: 000001F390A41300: libcurl info message cache 5 (Closing connection 11)
+[2018.10.21-03.45.04:282][561]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube
+[2018.10.21-03.45.11:499][920]BlueprintLog: New page: Compile BP_PickupCube
+[2018.10.21-03.45.11:797][920]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_PickupCube491505F64F1180B193C86498230E89C0.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset'
+[2018.10.21-03.45.15:836][118]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/PickupActorInterface.PickupActorInterface
+[2018.10.21-03.45.23:236][502]LogSlate: Window 'BP_PickupCube' being destroyed
+[2018.10.21-03.45.30:111][852]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/VR_GameInstance84CC490740E6B530FACE81A0B251F56E.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/VR_GameInstance.uasset'
+[2018.10.21-03.45.30:483][852]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MultiUser_StartupMap4FC83D3549D37EF85A6580A8699C221A.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Maps/MultiUser_StartupMap.umap'
+[2018.10.21-03.45.30:526][852]LogFileHelpers: Saving map 'MultiUser_StartupMap' took 0.411
+[2018.10.21-03.45.31:343][852]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MultiUser_StartupMap62A839BE4A062B9124860EA2A87ED826.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Maps/MultiUser_StartupMap.umap'
+[2018.10.21-03.45.31:385][852]LogFileHelpers: Saving map 'MultiUser_StartupMap' took 0.393
+[2018.10.21-03.45.31:386][852]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/VR_GameInstance.VR_GameInstance_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/VR_GameInstace.PackageMetaData'
+[2018.10.21-03.45.31:387][852]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/VR_GameInstance.VR_GameInstance:TransitionToState.K2Node_Tunnel_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/VR_GameInstace.PackageMetaData'
+[2018.10.21-03.45.31:387][852]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/VR_GameInstance.VR_GameInstance:TransitionToState.K2Node_Tunnel_1' ref from Metadata '/Game/VirtualRealityBP/Blueprints/VR_GameInstace.PackageMetaData'
+[2018.10.21-03.45.31:387][852]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/VR_GameInstance.VR_GameInstance:Spawn3DWidget.K2Node_Tunnel_1' ref from Metadata '/Game/VirtualRealityBP/Blueprints/VR_GameInstace.PackageMetaData'
+[2018.10.21-03.45.31:387][852]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/VR_GameInstance.VR_GameInstance:Spawn3DWidget.K2Node_Tunnel_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/VR_GameInstace.PackageMetaData'
+[2018.10.21-03.45.31:387][852]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/VR_GameInstance.VR_GameInstance:IsCurrentState.K2Node_Tunnel_1' ref from Metadata '/Game/VirtualRealityBP/Blueprints/VR_GameInstace.PackageMetaData'
+[2018.10.21-03.45.31:387][852]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/VR_GameInstance.VR_GameInstance:IsCurrentState.K2Node_Tunnel_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/VR_GameInstace.PackageMetaData'
+[2018.10.21-03.45.31:387][852]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/VR_GameInstance.VR_GameInstance:DisplayErrorDialog.K2Node_FunctionEntry_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/VR_GameInstace.PackageMetaData'
+[2018.10.21-03.45.31:387][852]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/VR_GameInstance.SKEL_VR_GameInstance_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/VR_GameInstace.PackageMetaData'
+[2018.10.21-03.45.31:537][852]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/VR_GameInstanceD26069534C1D2E81EB8EC8BCC8C6B3E4.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/VR_GameInstance.uasset'
+[2018.10.21-03.45.31:568][852]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/VR_GameInstace5B6E55FC4F1E8975688817A33283F12F.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/VR_GameInstace.uasset'
+[2018.10.21-03.45.31:687][855]LogRenderer: Reallocating scene render targets to support 832x488 Format 26 NumSamples 1 (Frame:406).
+[2018.10.21-03.45.57:632][229]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/User/VR_UserController.VR_UserController
+[2018.10.21-03.46.10:762][923]BlueprintLog: New page: Compile VR_UserController
+[2018.10.21-03.46.11:070][923]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/VR_UserController7395DA95478FEFC46E9557980C422648.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/VR_UserController.uasset'
+[2018.10.21-03.46.26:542][771]LogAIModule: Creating AISystem for world StartupMap
+[2018.10.21-03.46.35:073][240]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/MultiUser_StartupMap.MultiUser_StartupMap:PersistentLevel.MultiUser_StartupMap
+[2018.10.21-03.46.42:936][647]BlueprintLog: New page: Compile MultiUser_StartupMap
+[2018.10.21-03.46.43:505][647]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MultiUser_StartupMapAC2619CC42A63FBD6E71A8AB4FAAD326.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Maps/MultiUser_StartupMap.umap'
+[2018.10.21-03.46.43:547][647]LogFileHelpers: Saving map 'MultiUser_StartupMap' took 0.406
