@@ -520,3 +520,84 @@ LogInit: Object subsystem initialized
 [2018.10.21-03.46.42:936][647]BlueprintLog: New page: Compile MultiUser_StartupMap
 [2018.10.21-03.46.43:505][647]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MultiUser_StartupMapAC2619CC42A63FBD6E71A8AB4FAAD326.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Maps/MultiUser_StartupMap.umap'
 [2018.10.21-03.46.43:547][647]LogFileHelpers: Saving map 'MultiUser_StartupMap' took 0.406
+[2018.10.21-03.49.26:247][256]LogHttp: Warning: 000001F41E100400: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-03.49.26:247][256]LogHttp: Warning: 000001F41E100400: libcurl info message cache 0 (Connection 13 seems to be dead!)
+[2018.10.21-03.49.26:247][256]LogHttp: Warning: 000001F41E100400: libcurl info message cache 1 (Closing connection 13)
+[2018.10.21-03.49.26:247][256]LogHttp: Warning: 000001F41E100400: libcurl info message cache 2 (  Trying 10.0.0.1...)
+[2018.10.21-03.49.26:247][256]LogHttp: Warning: 000001F41E100400: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.10.21-03.49.26:247][256]LogHttp: Warning: 000001F41E100400: libcurl info message cache 4 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-03.49.26:247][256]LogHttp: Warning: 000001F41E100400: libcurl info message cache 5 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-03.49.26:247][256]LogHttp: Warning: 000001F41E100400: libcurl info message cache 6 (Closing connection 14)
+[2018.10.21-03.51.47:467][678]LogHttp: Warning: 000001F41E100400: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-03.51.47:467][678]LogHttp: Warning: 000001F41E100400: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-03.51.47:467][678]LogHttp: Warning: 000001F41E100400: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-03.51.47:467][678]LogHttp: Warning: 000001F41E100400: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-03.51.47:467][678]LogHttp: Warning: 000001F41E100400: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-03.51.47:467][678]LogHttp: Warning: 000001F41E100400: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-03.51.47:467][678]LogHttp: Warning: 000001F41E100400: libcurl info message cache 5 (Closing connection 15)
+[2018.10.21-03.54.08:683][100]LogHttp: Warning: 000001F41E100400: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-03.54.08:683][100]LogHttp: Warning: 000001F41E100400: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-03.54.08:683][100]LogHttp: Warning: 000001F41E100400: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-03.54.08:683][100]LogHttp: Warning: 000001F41E100400: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-03.54.08:683][100]LogHttp: Warning: 000001F41E100400: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-03.54.08:683][100]LogHttp: Warning: 000001F41E100400: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-03.54.08:683][100]LogHttp: Warning: 000001F41E100400: libcurl info message cache 5 (Closing connection 16)
+[2018.10.21-03.56.18:084][306]LogHttp: Warning: 000001F41E100400: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-03.56.18:084][306]LogHttp: Warning: 000001F41E100400: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-03.56.18:084][306]LogHttp: Warning: 000001F41E100400: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-03.56.18:084][306]LogHttp: Warning: 000001F41E100400: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-03.56.18:084][306]LogHttp: Warning: 000001F41E100400: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Connection was aborted)
+[2018.10.21-03.56.18:084][306]LogHttp: Warning: 000001F41E100400: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Connection was aborted)
+[2018.10.21-03.56.18:084][306]LogHttp: Warning: 000001F41E100400: libcurl info message cache 5 (Closing connection 17)
+[2018.10.21-03.56.43:215][380]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap' took 0.042
+[2018.10.21-03.56.43:218][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_ErrorDialog] ([1] browsable assets)...
+[2018.10.21-03.56.43:218][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_ErrorDialog]
+[2018.10.21-03.56.43:260][380]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/VR_ErrorDialog_Auto279422FF34164FDB01CB825A21D4D5276.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/VR_ErrorDialog_Auto2.uasset'
+[2018.10.21-03.56.43:263][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_MainMenu] ([1] browsable assets)...
+[2018.10.21-03.56.43:263][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_MainMenu]
+[2018.10.21-03.56.43:322][380]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/VR_MainMenu_Auto22EEBDC4B422FBCC219E3D19E7F2E72A7.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/VR_MainMenu_Auto2.uasset'
+[2018.10.21-03.56.43:325][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_ServerList] ([1] browsable assets)...
+[2018.10.21-03.56.43:325][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_ServerList]
+[2018.10.21-03.56.43:427][380]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/VR_ServerList_Auto2638D559242C1FD69DCA9B899EA4228BD.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/VR_ServerList_Auto2.uasset'
+[2018.10.21-03.56.43:430][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_ServerRow] ([1] browsable assets)...
+[2018.10.21-03.56.43:430][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Widgets/VR_ServerRow]
+[2018.10.21-03.56.43:485][380]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/VR_ServerRow_Auto288167E1347E49271B51F76ACCB268885.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Widgets/VR_ServerRow_Auto2.uasset'
+[2018.10.21-03.56.43:486][380]LogFileHelpers: Auto-saving content packages took 0.270
+[2018.10.21-03.57.59:980][399]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.10.21-03.58.00:505][399]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MotionControllerPawn72B735F141EE0FC51225FDAC81A60FC5.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset'
+[2018.10.21-03.58.11:280][940]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.58.12:131][940]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionController36330AE84D26FB015C9D318959ABC73F.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.58.32:244][ 34]BlueprintLog: New page: Compile VR_UserController
+[2018.10.21-03.58.32:535][ 34]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/VR_UserController81ED83884BD876CB597B66A8516603D9.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/VR_UserController.uasset'
+[2018.10.21-04.00.10:215][425]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/VirtualRealityBP/Blueprints/GameState.GameState
+[2018.10.21-04.00.15:500][707]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/PickupActorInterface.PickupActorInterface
+[2018.10.21-04.00.17:899][824]LogSlate: Window 'PickupActorInterface' being destroyed
+[2018.10.21-04.00.17:907][824]LogSlate: Window 'PickupActorInterface' being destroyed
+[2018.10.21-04.01.03:979][504]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Widgets/3DWidgetBase_BP.3DWidgetBase_BP
+[2018.10.21-04.01.34:293][180]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/VirtualRealityBP/Blueprints/Widgets/VR_ErrorDialog.VR_ErrorDialog
+[2018.10.21-04.05.38:656][785]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.10.21-04.05.39:186][785]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MotionControllerPawnF266B87541D044E977B774804B505650.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset'
+[2018.10.21-04.05.48:914][124]LogSlate: Window 'Save Content' being destroyed
+[2018.10.21-04.05.48:999][124]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/VR_ErrorDialog61CE32804E767192CD9A8BB33A31A42F.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/Widgets/VR_ErrorDialog.uasset'
+[2018.10.21-04.05.49:076][124]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/VR_MainMenuDC0147CF4B4346A5811267BC205DF9A6.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/Widgets/VR_MainMenu.uasset'
+[2018.10.21-04.05.49:196][124]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/VR_ServerList1361BD7C41B91A46CA3B139B1C77F135.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/Widgets/VR_ServerList.uasset'
+[2018.10.21-04.05.49:270][124]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/VR_ServerRow227584A846F7127F3F0A7EAD46AE2609.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/Widgets/VR_ServerRow.uasset'
+[2018.10.21-04.05.49:663][124]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MultiUser_StartupMap96417B09414437EB27DB75ACBAA40E6F.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Maps/MultiUser_StartupMap.umap'
+[2018.10.21-04.05.49:711][124]LogFileHelpers: Saving map 'MultiUser_StartupMap' took 0.433
+[2018.10.21-04.07.58:784][680]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.10.21-04.07.59:260][680]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MotionControllerPawn6B7457AB4A4028E1652C61B656CFC7E7.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset'
+[2018.10.21-04.14.21:209][555]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.10.21-04.14.21:744][555]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MotionControllerPawn2C20B425440A88B705893E9C095EF6C3.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset'
+[2018.10.21-04.14.21:744][555]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset', retrying in .5s...
+[2018.10.21-04.14.22:245][555]LogFileManager: Error: Error deleting file '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset'.
+[2018.10.21-04.14.22:245][555]LogSavePackage: Error: Error saving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset'
+[2018.10.21-04.14.27:817][555]LogSlate: Window 'Message' being destroyed
+[2018.10.21-04.14.27:987][555]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MotionControllerPawnC3A435054E89E361D8AEADA2E390E140.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset'
+[2018.10.21-04.14.27:987][555]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset', retrying in .5s...
+[2018.10.21-04.14.28:489][555]LogFileManager: Error: Error deleting file '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset'.
+[2018.10.21-04.14.28:489][555]LogSavePackage: Error: Error saving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset'
+[2018.10.21-04.14.35:138][555]LogSlate: Window 'Message' being destroyed
+[2018.10.21-04.14.35:320][555]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MotionControllerPawnA9AA64CC40D24B76F5191FB0751A2020.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset'
+[2018.10.21-04.14.35:334][555]EditorErrors: New page: Save Output
+[2018.10.21-04.14.35:334][555]EditorErrors: Warning: Error saving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset'
+[2018.10.21-04.14.35:334][555]EditorErrors: Warning: Error saving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset'
