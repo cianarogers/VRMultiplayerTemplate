@@ -601,3 +601,102 @@ LogInit: Object subsystem initialized
 [2018.10.21-04.14.35:334][555]EditorErrors: New page: Save Output
 [2018.10.21-04.14.35:334][555]EditorErrors: Warning: Error saving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset'
 [2018.10.21-04.14.35:334][555]EditorErrors: Warning: Error saving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset'
+[2018.10.21-04.15.48:253][ 78]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MultiUser_StartupMap_Auto3938ADDB2490C7E656D83F49C657C0A8F.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/Autosaves/Game/VirtualRealityBP/Maps/MultiUser_StartupMap_Auto3.umap'
+[2018.10.21-04.15.48:258][ 78]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MultiUser_StartupMap' took 0.302
+[2018.10.21-04.15.48:258][ 78]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.302
+[2018.10.21-04.17.26:652][536]LogHttp: Warning: 000001F42522E200: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-04.17.26:652][536]LogHttp: Warning: 000001F42522E200: libcurl info message cache 0 (Connection 28 seems to be dead!)
+[2018.10.21-04.17.26:652][536]LogHttp: Warning: 000001F42522E200: libcurl info message cache 1 (Closing connection 28)
+[2018.10.21-04.17.26:652][536]LogHttp: Warning: 000001F42522E200: libcurl info message cache 2 (  Trying 10.0.0.1...)
+[2018.10.21-04.17.26:652][536]LogHttp: Warning: 000001F42522E200: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.10.21-04.17.26:652][536]LogHttp: Warning: 000001F42522E200: libcurl info message cache 4 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-04.17.26:652][536]LogHttp: Warning: 000001F42522E200: libcurl info message cache 5 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-04.17.26:652][536]LogHttp: Warning: 000001F42522E200: libcurl info message cache 6 (Closing connection 29)
+[2018.10.21-04.19.47:891][959]LogHttp: Warning: 000001F42522E200: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-04.19.47:891][959]LogHttp: Warning: 000001F42522E200: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-04.19.47:891][959]LogHttp: Warning: 000001F42522E200: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-04.19.47:891][959]LogHttp: Warning: 000001F42522E200: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-04.19.47:891][959]LogHttp: Warning: 000001F42522E200: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-04.19.47:891][959]LogHttp: Warning: 000001F42522E200: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-04.19.47:892][959]LogHttp: Warning: 000001F42522E200: libcurl info message cache 5 (Closing connection 30)
+[2018.10.21-04.22.08:929][ 35]LogHttp: Warning: 000001F3F0BA8B80: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-04.22.08:929][ 35]LogHttp: Warning: 000001F3F0BA8B80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-04.22.08:929][ 35]LogHttp: Warning: 000001F3F0BA8B80: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-04.22.08:929][ 35]LogHttp: Warning: 000001F3F0BA8B80: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-04.22.08:929][ 35]LogHttp: Warning: 000001F3F0BA8B80: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-04.22.08:929][ 35]LogHttp: Warning: 000001F3F0BA8B80: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-04.22.08:929][ 35]LogHttp: Warning: 000001F3F0BA8B80: libcurl info message cache 5 (Closing connection 31)
+[2018.10.21-04.24.29:963][825]LogHttp: Warning: 000001F428A58180: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-04.24.29:963][825]LogHttp: Warning: 000001F428A58180: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-04.24.29:963][825]LogHttp: Warning: 000001F428A58180: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-04.24.29:963][825]LogHttp: Warning: 000001F428A58180: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-04.24.29:963][825]LogHttp: Warning: 000001F428A58180: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-04.24.29:963][825]LogHttp: Warning: 000001F428A58180: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-04.24.29:963][825]LogHttp: Warning: 000001F428A58180: libcurl info message cache 5 (Closing connection 32)
+[2018.10.21-04.25.13:598][251]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2018.10.21-04.25.15:237][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-04.25.21:207][621]LogAIModule: Creating AISystem for world MultiUser_Map
+[2018.10.21-04.25.21:215][621]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MultiUser_Map.MultiUser_Map
+[2018.10.21-04.25.22:648][621]LogSlate: Window 'Save Content' being destroyed
+[2018.10.21-04.25.22:806][621]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MotionControllerPawn992C2F2E4B03AE6A269CD486716F1249.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset'
+[2018.10.21-04.25.23:168][621]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MultiUser_StartupMap42B89F084CCBBDF749EF82BAC80AC8B6.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Maps/MultiUser_StartupMap.umap'
+[2018.10.21-04.25.23:216][621]LogFileHelpers: Saving map 'MultiUser_StartupMap' took 0.406
+[2018.10.21-04.25.23:217][621]Cmd: MAP LOAD FILE="../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Maps/MultiUser_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.21-04.25.23:217][621]LightingResults: New page: Lighting Build
+[2018.10.21-04.25.23:218][621]LoadErrors: New page: Loading map: MultiUser_Map.umap
+[2018.10.21-04.25.23:246][621]MapCheck: New page: Map Check
+[2018.10.21-04.25.23:246][621]LightingResults: New page: Lighting Build
+[2018.10.21-04.25.23:483][621]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.21-04.25.23:557][621]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.21-04.25.23:662][621]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 104.337ms to complete.
+[2018.10.21-04.25.23:663][621]LogFileHelpers: Loading map 'MultiUser_Map' took 0.447
+[2018.10.21-04.25.26:303][772]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart2)
+[2018.10.21-04.25.29:543][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-04.26.01:688][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-04.26.25:798][230]Cmd: TRANSACTION UNDO
+[2018.10.21-04.26.25:798][230]LogEditorTransaction: Undo Set Location
+[2018.10.21-04.26.25:836][230]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MultiUser_Map.MultiUser_Map:PersistentLevel.TextRenderActor3_5.Sprite) Component already registered.
+[2018.10.21-04.26.25:836][230]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MultiUser_Map.MultiUser_Map:PersistentLevel.TextRenderActor_1.Sprite) Component already registered.
+[2018.10.21-04.26.25:836][230]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MultiUser_Map.MultiUser_Map:PersistentLevel.TextRenderActor2.Sprite) Component already registered.
+[2018.10.21-04.26.28:652][393]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart2)
+[2018.10.21-04.26.30:067][476]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.21-04.26.37:346][907]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.21-04.26.38:800][993]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.21-04.26.39:732][ 48]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.10.21-04.26.41:946][179]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.21-04.26.43:509][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-04.26.45:664][394]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart2)
+[2018.10.21-04.26.46:800][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-04.26.50:997][661]LogHttp: Warning: 000001F41D05EC00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-04.26.50:997][661]LogHttp: Warning: 000001F41D05EC00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-04.26.50:997][661]LogHttp: Warning: 000001F41D05EC00: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-04.26.50:997][661]LogHttp: Warning: 000001F41D05EC00: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-04.26.50:997][661]LogHttp: Warning: 000001F41D05EC00: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-04.26.50:997][661]LogHttp: Warning: 000001F41D05EC00: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-04.26.50:997][661]LogHttp: Warning: 000001F41D05EC00: libcurl info message cache 5 (Closing connection 33)
+[2018.10.21-04.26.54:132][845]Cmd: TRANSACTION UNDO
+[2018.10.21-04.26.54:132][845]LogEditorTransaction: Undo Move Actors
+[2018.10.21-04.26.54:142][845]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MultiUser_Map.MultiUser_Map:PersistentLevel.TextRenderActor_1.NewTextRenderComponent) Component already registered.
+[2018.10.21-04.26.57:700][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-04.27.22:644][491]Cmd: TRANSACTION UNDO
+[2018.10.21-04.27.22:644][491]LogEditorTransaction: Undo Move Actors
+[2018.10.21-04.27.22:666][491]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MultiUser_Map.MultiUser_Map:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2018.10.21-04.27.22:666][491]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MultiUser_Map.MultiUser_Map:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
+[2018.10.21-04.27.22:668][491]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MultiUser_Map.MultiUser_Map:PersistentLevel.NavModifierVolume4.BrushComponent0) Component already registered.
+[2018.10.21-04.27.43:885][737]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart2)
+[2018.10.21-04.27.48:826][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-04.28.32:357][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-04.28.33:962][482]LogSlate: Window 'Save Content' being destroyed
+[2018.10.21-04.28.34:456][482]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MultiUser_Map1CD5834440B22E340F3E88B4AB8D5126.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Maps/MultiUser_Map.umap'
+[2018.10.21-04.28.34:512][482]LogFileHelpers: Saving map 'MultiUser_Map' took 0.505
+[2018.10.21-04.29.11:486][435]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.10.21-04.29.11:989][435]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MotionControllerPawnEE0247D3467DA4304F8293B429DB5098.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset'
+[2018.10.21-04.29.12:128][436]LogHttp: Warning: 000001F4180A91C0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-04.29.12:128][436]LogHttp: Warning: 000001F4180A91C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-04.29.12:128][436]LogHttp: Warning: 000001F4180A91C0: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-04.29.12:128][436]LogHttp: Warning: 000001F4180A91C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-04.29.12:128][436]LogHttp: Warning: 000001F4180A91C0: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-04.29.12:128][436]LogHttp: Warning: 000001F4180A91C0: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-04.29.12:128][436]LogHttp: Warning: 000001F4180A91C0: libcurl info message cache 5 (Closing connection 34)
+[2018.10.21-04.29.22:423][959]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MultiUser_MapD374DD31406632564A0251B6326AE47D.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Maps/MultiUser_Map.umap'
+[2018.10.21-04.29.22:747][959]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MultiUser_Map_BuiltData49029D11410C1AF6CDE117AFBCB5703B.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Maps/MultiUser_Map_BuiltData.uasset'
