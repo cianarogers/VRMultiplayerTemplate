@@ -342,3 +342,126 @@ LogInit: Object subsystem initialized
 [2018.10.21-03.18.14:487][767]BlueprintLog: New page: Compile BP_MotionController
 [2018.10.21-03.18.15:378][767]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionController8067E36C46E4C9D4C9649DB979D8B53F.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
 [2018.10.21-03.18.16:523][804]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionController5F621A874275882613FBF58CF6B28573.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.21.26:433][311]LogHttp: Warning: 000001F3896825C0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-03.21.26:433][311]LogHttp: Warning: 000001F3896825C0: libcurl info message cache 0 (Connection 0 seems to be dead!)
+[2018.10.21-03.21.26:433][311]LogHttp: Warning: 000001F3896825C0: libcurl info message cache 1 (Closing connection 0)
+[2018.10.21-03.21.26:433][311]LogHttp: Warning: 000001F3896825C0: libcurl info message cache 2 (  Trying 10.0.0.1...)
+[2018.10.21-03.21.26:433][311]LogHttp: Warning: 000001F3896825C0: libcurl info message cache 3 (TCP_NODELAY set)
+[2018.10.21-03.21.26:433][311]LogHttp: Warning: 000001F3896825C0: libcurl info message cache 4 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-03.21.26:433][311]LogHttp: Warning: 000001F3896825C0: libcurl info message cache 5 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-03.21.26:433][311]LogHttp: Warning: 000001F3896825C0: libcurl info message cache 6 (Closing connection 1)
+[2018.10.21-03.22.53:821][775]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/User/HMDLocomotionPawn.HMDLocomotionPawn
+[2018.10.21-03.23.09:631][572]LogSlate: Window 'HMDLocomotionPawn' being destroyed
+[2018.10.21-03.23.09:642][572]LogSlate: Window 'HMDLocomotionPawn' being destroyed
+[2018.10.21-03.23.17:279][984]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.23.18:224][984]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionControllerDCF198DB4DFE5A480BFFDBA5F1637E6E.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.23.18:995][  3]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionControllerFE07C55A4D1359CA9A6BEE98118B72AE.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.23.38:577][101]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/User/MotionControllerPawn.MotionControllerPawn
+[2018.10.21-03.23.46:879][516]LogAssetEditorManager: Opening Asset editor for HapticFeedbackEffect_Curve /Game/VirtualRealityBP/Blueprints/User/MotionControllerHaptics.MotionControllerHaptics
+[2018.10.21-03.23.47:465][542]LogHttp: Warning: 000001F388A17600: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-03.23.47:465][542]LogHttp: Warning: 000001F388A17600: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-03.23.47:465][542]LogHttp: Warning: 000001F388A17600: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-03.23.47:465][542]LogHttp: Warning: 000001F388A17600: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-03.23.47:465][542]LogHttp: Warning: 000001F388A17600: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-03.23.47:465][542]LogHttp: Warning: 000001F388A17600: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-03.23.47:465][542]LogHttp: Warning: 000001F388A17600: libcurl info message cache 5 (Closing connection 2)
+[2018.10.21-03.23.48:508][604]LogSlate: Window 'MotionControllerHaptics - Generic Asset Editor' being destroyed
+[2018.10.21-03.23.48:516][604]LogSlate: Window 'MotionControllerHaptics - Generic Asset Editor' being destroyed
+[2018.10.21-03.23.49:759][667]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/User/VR_UserController.VR_UserController
+[2018.10.21-03.24.12:122][897]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/VR_GameInstace.VR_GameInstace
+[2018.10.21-03.24.31:084][872]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/VR_GameMode.VR_GameMode
+[2018.10.21-03.25.18:489][540]BlueprintLog: New page: Compile VR_GameMode
+[2018.10.21-03.25.18:842][540]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/VR_GameMode497096884F12FCC24314C1ADF4103A5E.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/VR_GameMode.uasset'
+[2018.10.21-03.25.20:361][619]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/VR_GameMode5F9499E5473AC75100C097A6A9D1CD96.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/VR_GameMode.uasset'
+[2018.10.21-03.25.39:558][639]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.10.21-03.25.40:051][639]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MotionControllerPawnD25FE53442E99EAA121077802116AF7B.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset'
+[2018.10.21-03.25.43:413][808]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.10.21-03.25.43:891][808]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MotionControllerPawn9A9E100E4E9C3FD4230695B53B604245.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset'
+[2018.10.21-03.25.52:128][234]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.10.21-03.25.52:587][234]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MotionControllerPawn0C8D648D42AE31C527C996A984621623.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/MotionControllerPawn.uasset'
+[2018.10.21-03.26.03:392][777]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.26.04:213][777]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionController77ACA7084699CD26CCF47FB3649BD201.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.26.08:428][973]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.26.09:246][973]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionController06B2D4464B8EE8641B7C27809D6B97C0.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.26.09:332][974]LogHttp: Warning: 000001F390DE1080: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-03.26.09:332][974]LogHttp: Warning: 000001F390DE1080: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-03.26.09:332][974]LogHttp: Warning: 000001F390DE1080: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-03.26.09:332][974]LogHttp: Warning: 000001F390DE1080: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-03.26.09:332][974]LogHttp: Warning: 000001F390DE1080: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-03.26.09:332][974]LogHttp: Warning: 000001F390DE1080: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-03.26.09:332][974]LogHttp: Warning: 000001F390DE1080: libcurl info message cache 5 (Closing connection 3)
+[2018.10.21-03.26.12:277][112]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.26.13:126][112]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionController66C8DD9C4F95102BBD5A6199146B90A7.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.26.19:057][437]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.26.19:901][437]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionController36915C414225B06970CD8B87F6700298.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.26.24:727][685]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.26.25:610][685]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionControllerB195C9754C4B9DDBBA82799695FC2773.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.26.32:275][ 34]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.26.33:109][ 34]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionController37DCEF3044E3500099DD66A50EC26A5E.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.26.36:090][187]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.26.36:903][187]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionControllerEB38268A427122A186A1EC828D7BA991.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.26.41:218][391]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.26.42:053][391]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionControllerBAF161AC4399AE7BCDA0BBB096C93B2C.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.26.45:795][564]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.26.46:592][564]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionControllerDB83C3404112B2CB20D72B959340396E.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.26.49:940][721]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.26.50:771][721]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionController9AA7660945080DD6CC63E48EBC3515EF.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.26.59:380][200]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.27.00:261][200]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionController83DDA93A498A3B9A706EFC8B7B96B67F.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.27.01:109][224]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionControllerBD8F7D524C8814F0694D7BB9DFB396D0.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.27.04:306][396]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.27.05:171][396]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionController0E7E4C494D4DA812307FD78F8840297D.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.27.06:078][423]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionController806227344ADF53E651E6B6AB5CAC3A04.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.27.09:363][597]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.27.10:234][597]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionController16699EE44402AF34856294ABFC57913E.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.27.28:141][376]LogSlate: Window 'Save Content' being destroyed
+[2018.10.21-03.27.28:539][376]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/MultiUser_StartupMapDBE3BB8747D27BAA6AA7DD9B51214CE7.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Maps/MultiUser_StartupMap.umap'
+[2018.10.21-03.27.28:585][376]LogFileHelpers: Saving map 'MultiUser_StartupMap' took 0.400
+[2018.10.21-03.28.30:462][658]LogHttp: Warning: 000001F39C281080: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-03.28.30:462][658]LogHttp: Warning: 000001F39C281080: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-03.28.30:462][658]LogHttp: Warning: 000001F39C281080: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-03.28.30:462][658]LogHttp: Warning: 000001F39C281080: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-03.28.30:462][658]LogHttp: Warning: 000001F39C281080: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-03.28.30:462][658]LogHttp: Warning: 000001F39C281080: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-03.28.30:462][658]LogHttp: Warning: 000001F39C281080: libcurl info message cache 5 (Closing connection 4)
+[2018.10.21-03.30.51:575][162]LogHttp: Warning: 000001F39C280540: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-03.30.51:575][162]LogHttp: Warning: 000001F39C280540: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-03.30.51:575][162]LogHttp: Warning: 000001F39C280540: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-03.30.51:575][162]LogHttp: Warning: 000001F39C280540: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-03.30.51:575][162]LogHttp: Warning: 000001F39C280540: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-03.30.51:575][162]LogHttp: Warning: 000001F39C280540: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-03.30.51:575][162]LogHttp: Warning: 000001F39C280540: libcurl info message cache 5 (Closing connection 5)
+[2018.10.21-03.33.12:858][585]LogHttp: Warning: 000001F39C280540: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-03.33.12:858][585]LogHttp: Warning: 000001F39C280540: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-03.33.12:858][585]LogHttp: Warning: 000001F39C280540: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-03.33.12:858][585]LogHttp: Warning: 000001F39C280540: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-03.33.12:858][585]LogHttp: Warning: 000001F39C280540: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-03.33.12:858][585]LogHttp: Warning: 000001F39C280540: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-03.33.12:858][585]LogHttp: Warning: 000001F39C280540: libcurl info message cache 5 (Closing connection 6)
+[2018.10.21-03.35.33:894][381]LogHttp: Warning: 000001F39C5A3240: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.21-03.35.33:894][381]LogHttp: Warning: 000001F39C5A3240: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.21-03.35.33:895][381]LogHttp: Warning: 000001F39C5A3240: libcurl info message cache 1 (  Trying 10.0.0.1...)
+[2018.10.21-03.35.33:895][381]LogHttp: Warning: 000001F39C5A3240: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.21-03.35.33:895][381]LogHttp: Warning: 000001F39C5A3240: libcurl info message cache 3 (connect to 10.0.0.1 port 443 failed: Timed out)
+[2018.10.21-03.35.33:895][381]LogHttp: Warning: 000001F39C5A3240: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.10.21-03.35.33:895][381]LogHttp: Warning: 000001F39C5A3240: libcurl info message cache 5 (Closing connection 7)
+[2018.10.21-03.35.57:071][696]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.35.57:932][696]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionController42BC923148D548D52A8E63BBCB5A3EDC.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.36.01:266][853]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.36.02:091][853]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionControllerB2A32AB24F069B38C80EE985512038C4.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.36.06:534][ 90]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.36.07:355][ 90]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionControllerF3CF00C849E496F77F8787B4315E9008.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.36.11:070][274]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.36.11:881][274]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionControllerB870E8BE4523C58C6ACEE591DA11F752.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.36.15:884][491]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.36.16:723][491]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionControllerB894918E44A441A04E60249CA72BCCD2.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.36.21:986][758]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.36.22:774][758]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionController57CF0A2F435AFB8CA6E94E96D1E00B8C.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.36.25:171][878]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.36.25:957][878]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionControllerF2F3AD964DA8502C634B729A58CF4966.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.36.29:537][ 72]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.36.30:332][ 72]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionControllerD472D7144BAC226BC88C768CB713D90E.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.36.33:226][219]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.36.34:006][219]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionControllerC72BBA99405A8100542B03A88CD0EC42.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
+[2018.10.21-03.36.38:019][428]BlueprintLog: New page: Compile BP_MotionController
+[2018.10.21-03.36.38:788][428]LogSavePackage: Moving '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Saved/BP_MotionController107092564FC8D2B31F38B48F7034B039.tmp' to '../../../../../../Users/mckre/Documents/GitHub/VRMultiplayerTemplate/VRMultiUserTemplate/Content/VirtualRealityBP/Blueprints/User/BP_MotionController.uasset'
